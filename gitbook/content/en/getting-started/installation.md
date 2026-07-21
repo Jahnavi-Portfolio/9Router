@@ -34,7 +34,7 @@ npm --version
 Install 9Router globally to use from anywhere:
 
 ```bash
-npm install -g 9router
+npm install -g 9router@latest
 ```
 
 **Start 9Router:**
@@ -283,7 +283,7 @@ echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 
 # Then install again
-npm install -g 9router
+npm install -g 9router@latest
 ```
 
 ### Node.js Version Too Old
@@ -372,7 +372,7 @@ pm2 save
 ### Local Development
 
 ```bash
-npm install -g 9router
+npm install -g 9router@latest
 9router
 ```
 
@@ -382,7 +382,7 @@ npm install -g 9router
 
 ```bash
 # Install
-npm install -g 9router
+npm install -g 9router@latest
 
 # Configure
 export JWT_SECRET="your-secure-secret"

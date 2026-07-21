@@ -40,7 +40,7 @@
 **Option 1 — npm (recommended for desktop):**
 
 ```bash
-npm install -g 9router
+npm install -g 9router@latest
 9router
 
 # Or run directly with npx

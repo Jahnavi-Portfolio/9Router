@@ -70,7 +70,7 @@ Result: Never stop coding, minimal cost
 **1. 全局安装：**
 
 ```bash
-npm install -g 9router
+npm install -g 9router@latest
 9router
 ```
 

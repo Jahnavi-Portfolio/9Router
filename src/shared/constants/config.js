@@ -16,7 +16,7 @@ export const GITHUB_CONFIG = {
 // Updater configuration
 export const UPDATER_CONFIG = {
   npmPackageName: "9router",
-  installCmd: "npm i -g 9router",
+  installCmd: "npm i -g 9router@latest",
   installCmdLatest: "npm i -g 9router@latest --prefer-online",
   shutdownCountdownSec: 3,
   exitDelayMs: 500,

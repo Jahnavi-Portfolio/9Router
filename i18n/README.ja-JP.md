@@ -68,7 +68,7 @@
 **1. グローバルインストール：**
 
 ```bash
-npm install -g 9router
+npm install -g 9router@latest
 9router
 ```
 

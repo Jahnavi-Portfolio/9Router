@@ -1,0 +1,6328 @@
+{
+  "totalFiles": 1261,
+  "extensions": {
+    "no_extension": 12,
+    ".example": 1,
+    ".yml": 4,
+    ".json": 45,
+    ".md": 123,
+    ".js": 935,
+    ".ico": 2,
+    ".png": 108,
+    ".ps1": 1,
+    ".mjs": 13,
+    ".css": 2,
+    ".svg": 9,
+    ".sh": 1,
+    ".txt": 1,
+    ".snap": 4
+  },
+  "totalLines": 198188,
+  "fileList": [
+    {
+      "file": "images/9router.png",
+      "lines": 4799,
+      "sizeBytes": 1330156
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/[id]/page.js",
+      "lines": 1748,
+      "sizeBytes": 70114
+    },
+    {
+      "file": "src/lib/oauth/providers.js",
+      "lines": 1562,
+      "sizeBytes": 56214
+    },
+    {
+      "file": "README.md",
+      "lines": 1444,
+      "sizeBytes": 53035
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/usage/components/ProviderLimits/index.js",
+      "lines": 1439,
+      "sizeBytes": 62018
+    },
+    {
+      "file": "i18n/README.ru.md",
+      "lines": 1312,
+      "sizeBytes": 61208
+    },
+    {
+      "file": "README.zh-CN.md",
+      "lines": 1311,
+      "sizeBytes": 44082
+    },
+    {
+      "file": "i18n/README.vi.md",
+      "lines": 1311,
+      "sizeBytes": 50474
+    },
+    {
+      "file": "i18n/README.zh-CN.md",
+      "lines": 1307,
+      "sizeBytes": 41097
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/endpoint/EndpointPageClient.js",
+      "lines": 1296,
+      "sizeBytes": 53521
+    },
+    {
+      "file": "tests/translator/__snapshots__/golden-url-header.test.js.snap",
+      "lines": 1238,
+      "sizeBytes": 38114
+    },
+    {
+      "file": "i18n/README.ja-JP.md",
+      "lines": 1210,
+      "sizeBytes": 43503
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/profile/page.js",
+      "lines": 1183,
+      "sizeBytes": 47760
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/proxy-pools/page.js",
+      "lines": 1064,
+      "sizeBytes": 42648
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/basic-chat/BasicChatPageClient.js",
+      "lines": 968,
+      "sizeBytes": 39655
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/page.js",
+      "lines": 967,
+      "sizeBytes": 36106
+    },
+    {
+      "file": "open-sse/utils/cursorProtobuf.js",
+      "lines": 905,
+      "sizeBytes": 30300
+    },
+    {
+      "file": "src/mitm/manager.js",
+      "lines": 884,
+      "sizeBytes": 32756
+    },
+    {
+      "file": "src/lib/tunnel/tailscale/tailscale.js",
+      "lines": 860,
+      "sizeBytes": 31975
+    },
+    {
+      "file": "cli/src/cli/menus/providers.js",
+      "lines": 848,
+      "sizeBytes": 27003
+    },
+    {
+      "file": "cli/cli.js",
+      "lines": 831,
+      "sizeBytes": 28722
+    },
+    {
+      "file": "src/app/api/providers/[id]/test/testUtils.js",
+      "lines": 784,
+      "sizeBytes": 38181
+    },
+    {
+      "file": "public/i18n/literals/zh-CN.json",
+      "lines": 774,
+      "sizeBytes": 43870
+    },
+    {
+      "file": "src/lib/db/repos/usageRepo.js",
+      "lines": 774,
+      "sizeBytes": 36810
+    },
+    {
+      "file": "src/shared/components/OAuthModal.js",
+      "lines": 705,
+      "sizeBytes": 27308
+    },
+    {
+      "file": "open-sse/executors/cursor.js",
+      "lines": 689,
+      "sizeBytes": 22958
+    },
+    {
+      "file": "gitbook/content/en/features/quota-tracking.md",
+      "lines": 688,
+      "sizeBytes": 15523
+    },
+    {
+      "file": "gitbook/content/es/features/quota-tracking.md",
+      "lines": 688,
+      "sizeBytes": 16908
+    },
+    {
+      "file": "gitbook/content/ja/features/quota-tracking.md",
+      "lines": 688,
+      "sizeBytes": 17140
+    },
+    {
+      "file": "gitbook/content/vi/features/quota-tracking.md",
+      "lines": 688,
+      "sizeBytes": 16051
+    },
+    {
+      "file": "gitbook/content/zh-CN/features/quota-tracking.md",
+      "lines": 688,
+      "sizeBytes": 15104
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/combos/page.js",
+      "lines": 655,
+      "sizeBytes": 26101
+    },
+    {
+      "file": "tests/unit/embeddingsCore.test.js",
+      "lines": 647,
+      "sizeBytes": 23986
+    },
+    {
+      "file": "src/app/api/providers/validate/route.js",
+      "lines": 635,
+      "sizeBytes": 27716
+    },
+    {
+      "file": "open-sse/services/tokenRefresh/providers.js",
+      "lines": 625,
+      "sizeBytes": 20544
+    },
+    {
+      "file": "cli/src/cli/menus/cliTools.js",
+      "lines": 619,
+      "sizeBytes": 22837
+    },
+    {
+      "file": "open-sse/translator/request/openai-to-kiro.js",
+      "lines": 608,
+      "sizeBytes": 23439
+    },
+    {
+      "file": "open-sse/executors/antigravity.js",
+      "lines": 602,
+      "sizeBytes": 21631
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/CoworkToolCard.js",
+      "lines": 598,
+      "sizeBytes": 30705
+    },
+    {
+      "file": "src/shared/components/KiroAuthModal.js",
+      "lines": 596,
+      "sizeBytes": 23185
+    },
+    {
+      "file": "open-sse/executors/kiro.js",
+      "lines": 593,
+      "sizeBytes": 23805
+    },
+    {
+      "file": "src/app/api/v1beta/models/[...path]/route.js",
+      "lines": 586,
+      "sizeBytes": 20411
+    },
+    {
+      "file": "src/shared/components/ModelSelectModal.js",
+      "lines": 582,
+      "sizeBytes": 25230
+    },
+    {
+      "file": "open-sse/services/combo.js",
+      "lines": 572,
+      "sizeBytes": 24890
+    },
+    {
+      "file": "tests/translator/__snapshots__/golden-response-stream.test.js.snap",
+      "lines": 571,
+      "sizeBytes": 11970
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/media-providers/[kind]/[id]/components/TtsExampleCard.js",
+      "lines": 567,
+      "sizeBytes": 27286
+    },
+    {
+      "file": "docs/ARCHITECTURE.md",
+      "lines": 558,
+      "sizeBytes": 17496
+    },
+    {
+      "file": "cli/src/cli/api/client.js",
+      "lines": 557,
+      "sizeBytes": 15900
+    },
+    {
+      "file": "src/app/api/providers/[id]/models/route.js",
+      "lines": 552,
+      "sizeBytes": 20602
+    },
+    {
+      "file": "tests/unit/image-generation.test.js",
+      "lines": 547,
+      "sizeBytes": 18710
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/media-providers/[kind]/[id]/components/GenericExampleCard.js",
+      "lines": 540,
+      "sizeBytes": 25730
+    },
+    {
+      "file": "gitbook/content/en/features/combos.md",
+      "lines": 538,
+      "sizeBytes": 10962
+    },
+    {
+      "file": "gitbook/content/es/features/combos.md",
+      "lines": 538,
+      "sizeBytes": 12041
+    },
+    {
+      "file": "gitbook/content/ja/features/combos.md",
+      "lines": 538,
+      "sizeBytes": 13208
+    },
+    {
+      "file": "gitbook/content/vi/features/combos.md",
+      "lines": 538,
+      "sizeBytes": 11744
+    },
+    {
+      "file": "gitbook/content/zh-CN/features/combos.md",
+      "lines": 538,
+      "sizeBytes": 10528
+    },
+    {
+      "file": "open-sse/translator/response/openai-responses.js",
+      "lines": 536,
+      "sizeBytes": 16989
+    },
+    {
+      "file": "src/shared/components/UsageStats.js",
+      "lines": 532,
+      "sizeBytes": 23154
+    },
+    {
+      "file": "src/mitm/handlers/kiro.js",
+      "lines": 527,
+      "sizeBytes": 18561
+    },
+    {
+      "file": "tests/unit/rtk.test.js",
+      "lines": 526,
+      "sizeBytes": 19413
+    },
+    {
+      "file": "tests/unit/embeddings.cloud.test.js",
+      "lines": 525,
+      "sizeBytes": 20614
+    },
+    {
+      "file": "src/app/globals.css",
+      "lines": 511,
+      "sizeBytes": 14780
+    },
+    {
+      "file": "open-sse/executors/perplexity-web.js",
+      "lines": 506,
+      "sizeBytes": 19920
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/OpenCodeToolCard.js",
+      "lines": 501,
+      "sizeBytes": 24307
+    },
+    {
+      "file": "open-sse/utils/stream.js",
+      "lines": 495,
+      "sizeBytes": 21030
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/components/ConnectionsCard.js",
+      "lines": 494,
+      "sizeBytes": 24851
+    },
+    {
+      "file": "src/app/api/v1/models/route.js",
+      "lines": 492,
+      "sizeBytes": 17973
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/usage/components/ProviderLimits/utils.js",
+      "lines": 489,
+      "sizeBytes": 16519
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/AntigravityToolCard.js",
+      "lines": 482,
+      "sizeBytes": 18802
+    },
+    {
+      "file": "gitbook/content/en/getting-started/installation.md",
+      "lines": 479,
+      "sizeBytes": 8277
+    },
+    {
+      "file": "gitbook/content/es/getting-started/installation.md",
+      "lines": 479,
+      "sizeBytes": 8902
+    },
+    {
+      "file": "gitbook/content/ja/getting-started/installation.md",
+      "lines": 479,
+      "sizeBytes": 9546
+    },
+    {
+      "file": "gitbook/content/vi/getting-started/installation.md",
+      "lines": 479,
+      "sizeBytes": 8723
+    },
+    {
+      "file": "gitbook/content/zh-CN/getting-started/installation.md",
+      "lines": 479,
+      "sizeBytes": 7907
+    },
+    {
+      "file": "open-sse/translator/request/claude-to-kiro.js",
+      "lines": 479,
+      "sizeBytes": 16972
+    },
+    {
+      "file": "cli/src/cli/menus/combos.js",
+      "lines": 478,
+      "sizeBytes": 13991
+    },
+    {
+      "file": "gitbook/content/en/deployment/cloud.md",
+      "lines": 474,
+      "sizeBytes": 8906
+    },
+    {
+      "file": "gitbook/content/es/deployment/cloud.md",
+      "lines": 474,
+      "sizeBytes": 9374
+    },
+    {
+      "file": "gitbook/content/ja/deployment/cloud.md",
+      "lines": 474,
+      "sizeBytes": 10138
+    },
+    {
+      "file": "gitbook/content/vi/deployment/cloud.md",
+      "lines": 474,
+      "sizeBytes": 9155
+    },
+    {
+      "file": "gitbook/content/zh-CN/deployment/cloud.md",
+      "lines": 474,
+      "sizeBytes": 8617
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/token-saver/TokenSaverClient.js",
+      "lines": 473,
+      "sizeBytes": 17383
+    },
+    {
+      "file": "tests/unit/qoder.test.js",
+      "lines": 470,
+      "sizeBytes": 19241
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/usage/components/RequestDetailsTab.js",
+      "lines": 469,
+      "sizeBytes": 20172
+    },
+    {
+      "file": "open-sse/translator/request/openai-to-gemini.js",
+      "lines": 467,
+      "sizeBytes": 16963
+    },
+    {
+      "file": "gitbook/content/en/providers/cheap.md",
+      "lines": 463,
+      "sizeBytes": 9531
+    },
+    {
+      "file": "gitbook/content/es/providers/cheap.md",
+      "lines": 463,
+      "sizeBytes": 10473
+    },
+    {
+      "file": "gitbook/content/ja/providers/cheap.md",
+      "lines": 463,
+      "sizeBytes": 11801
+    },
+    {
+      "file": "gitbook/content/vi/providers/cheap.md",
+      "lines": 463,
+      "sizeBytes": 10152
+    },
+    {
+      "file": "gitbook/content/zh-CN/providers/cheap.md",
+      "lines": 463,
+      "sizeBytes": 9347
+    },
+    {
+      "file": "open-sse/executors/qoder.js",
+      "lines": 459,
+      "sizeBytes": 16946
+    },
+    {
+      "file": "src/lib/tunnel/cloudflare/cloudflared.js",
+      "lines": 450,
+      "sizeBytes": 14961
+    },
+    {
+      "file": "gitbook/content/en/providers/free.md",
+      "lines": 443,
+      "sizeBytes": 9729
+    },
+    {
+      "file": "gitbook/content/es/providers/free.md",
+      "lines": 443,
+      "sizeBytes": 10817
+    },
+    {
+      "file": "gitbook/content/ja/providers/free.md",
+      "lines": 443,
+      "sizeBytes": 11869
+    },
+    {
+      "file": "gitbook/content/vi/providers/free.md",
+      "lines": 443,
+      "sizeBytes": 10671
+    },
+    {
+      "file": "gitbook/content/zh-CN/providers/free.md",
+      "lines": 443,
+      "sizeBytes": 9337
+    },
+    {
+      "file": "src/mitm/server.js",
+      "lines": 441,
+      "sizeBytes": 17613
+    },
+    {
+      "file": "src/shared/components/Sidebar.js",
+      "lines": 441,
+      "sizeBytes": 18909
+    },
+    {
+      "file": "open-sse/transformer/responsesTransformer.js",
+      "lines": 440,
+      "sizeBytes": 13868
+    },
+    {
+      "file": "open-sse/utils/usageTracking.js",
+      "lines": 432,
+      "sizeBytes": 16708
+    },
+    {
+      "file": "src/lib/oauth/utils/server.js",
+      "lines": 427,
+      "sizeBytes": 14345
+    },
+    {
+      "file": "tests/unit/claude-header-forwarding.test.js",
+      "lines": 418,
+      "sizeBytes": 16227
+    },
+    {
+      "file": "gitbook/content/en/integration/other-tools.md",
+      "lines": 417,
+      "sizeBytes": 9383
+    },
+    {
+      "file": "gitbook/content/es/integration/other-tools.md",
+      "lines": 417,
+      "sizeBytes": 10031
+    },
+    {
+      "file": "gitbook/content/ja/integration/other-tools.md",
+      "lines": 417,
+      "sizeBytes": 10303
+    },
+    {
+      "file": "gitbook/content/vi/integration/other-tools.md",
+      "lines": 417,
+      "sizeBytes": 9785
+    },
+    {
+      "file": "gitbook/content/zh-CN/integration/other-tools.md",
+      "lines": 417,
+      "sizeBytes": 9080
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/DroidToolCard.js",
+      "lines": 411,
+      "sizeBytes": 19073
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/media-providers/combo/[id]/page.js",
+      "lines": 411,
+      "sizeBytes": 18334
+    },
+    {
+      "file": "open-sse/handlers/search/chatSearch.js",
+      "lines": 409,
+      "sizeBytes": 12862
+    },
+    {
+      "file": "gitbook/content/en/features/smart-routing.md",
+      "lines": 408,
+      "sizeBytes": 9194
+    },
+    {
+      "file": "gitbook/content/es/features/smart-routing.md",
+      "lines": 408,
+      "sizeBytes": 10607
+    },
+    {
+      "file": "gitbook/content/ja/features/smart-routing.md",
+      "lines": 408,
+      "sizeBytes": 11334
+    },
+    {
+      "file": "gitbook/content/vi/features/smart-routing.md",
+      "lines": 408,
+      "sizeBytes": 9776
+    },
+    {
+      "file": "gitbook/content/zh-CN/features/smart-routing.md",
+      "lines": 408,
+      "sizeBytes": 8644
+    },
+    {
+      "file": "gitbook/content/en/providers/subscription.md",
+      "lines": 405,
+      "sizeBytes": 10005
+    },
+    {
+      "file": "gitbook/content/es/providers/subscription.md",
+      "lines": 405,
+      "sizeBytes": 10932
+    },
+    {
+      "file": "gitbook/content/ja/providers/subscription.md",
+      "lines": 405,
+      "sizeBytes": 12113
+    },
+    {
+      "file": "gitbook/content/vi/providers/subscription.md",
+      "lines": 405,
+      "sizeBytes": 10976
+    },
+    {
+      "file": "gitbook/content/zh-CN/providers/subscription.md",
+      "lines": 405,
+      "sizeBytes": 9803
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/CodexToolCard.js",
+      "lines": 403,
+      "sizeBytes": 19875
+    },
+    {
+      "file": "tests/__baseline__/providers-baseline.json",
+      "lines": 403,
+      "sizeBytes": 13084
+    },
+    {
+      "file": "open-sse/executors/codex.js",
+      "lines": 402,
+      "sizeBytes": 17709
+    },
+    {
+      "file": "src/shared/constants/cliTools.js",
+      "lines": 397,
+      "sizeBytes": 17583
+    },
+    {
+      "file": "tests/unit/buildOutputFilterAdversarial.test.js",
+      "lines": 394,
+      "sizeBytes": 15321
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/ClaudeToolCard.js",
+      "lines": 391,
+      "sizeBytes": 19236
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/[id]/AddApiKeyModal.js",
+      "lines": 390,
+      "sizeBytes": 15562
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/OpenClawToolCard.js",
+      "lines": 389,
+      "sizeBytes": 18544
+    },
+    {
+      "file": "gitbook/content/en/faq.md",
+      "lines": 388,
+      "sizeBytes": 9818
+    },
+    {
+      "file": "gitbook/content/es/faq.md",
+      "lines": 388,
+      "sizeBytes": 10925
+    },
+    {
+      "file": "gitbook/content/ja/faq.md",
+      "lines": 388,
+      "sizeBytes": 12054
+    },
+    {
+      "file": "gitbook/content/vi/faq.md",
+      "lines": 388,
+      "sizeBytes": 10806
+    },
+    {
+      "file": "gitbook/content/zh-CN/faq.md",
+      "lines": 388,
+      "sizeBytes": 9460
+    },
+    {
+      "file": "src/app/api/cli-tools/cowork-settings/route.js",
+      "lines": 388,
+      "sizeBytes": 15544
+    },
+    {
+      "file": "src/lib/oauth/services/kiro.js",
+      "lines": 382,
+      "sizeBytes": 11846
+    },
+    {
+      "file": "open-sse/translator/formats/gemini.js",
+      "lines": 381,
+      "sizeBytes": 12688
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/JcodeToolCard.js",
+      "lines": 381,
+      "sizeBytes": 17625
+    },
+    {
+      "file": "open-sse/translator/request/openai-to-claude.js",
+      "lines": 376,
+      "sizeBytes": 14050
+    },
+    {
+      "file": "open-sse/handlers/search/callers.js",
+      "lines": 372,
+      "sizeBytes": 13040
+    },
+    {
+      "file": "src/shared/components/Header.js",
+      "lines": 370,
+      "sizeBytes": 13007
+    },
+    {
+      "file": "open-sse/translator/formats/claude.js",
+      "lines": 369,
+      "sizeBytes": 15411
+    },
+    {
+      "file": "open-sse/utils/proxyFetch.js",
+      "lines": 369,
+      "sizeBytes": 12969
+    },
+    {
+      "file": "tests/unit/openai-to-kiro.test.js",
+      "lines": 366,
+      "sizeBytes": 14099
+    },
+    {
+      "file": "gitbook/content/en/troubleshooting.md",
+      "lines": 352,
+      "sizeBytes": 7050
+    },
+    {
+      "file": "gitbook/content/es/troubleshooting.md",
+      "lines": 352,
+      "sizeBytes": 7820
+    },
+    {
+      "file": "gitbook/content/ja/troubleshooting.md",
+      "lines": 352,
+      "sizeBytes": 8820
+    },
+    {
+      "file": "gitbook/content/vi/troubleshooting.md",
+      "lines": 352,
+      "sizeBytes": 7670
+    },
+    {
+      "file": "gitbook/content/zh-CN/troubleshooting.md",
+      "lines": 352,
+      "sizeBytes": 7054
+    },
+    {
+      "file": "tests/unit/quota-auto-ping.test.js",
+      "lines": 352,
+      "sizeBytes": 14255
+    },
+    {
+      "file": "CHANGELOG.md",
+      "lines": 346,
+      "sizeBytes": 19688
+    },
+    {
+      "file": "open-sse/executors/github.js",
+      "lines": 346,
+      "sizeBytes": 14595
+    },
+    {
+      "file": "open-sse/executors/grok-web.js",
+      "lines": 344,
+      "sizeBytes": 15377
+    },
+    {
+      "file": "src/app/api/oauth/[provider]/[action]/route.js",
+      "lines": 344,
+      "sizeBytes": 13071
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/DeepSeekTuiToolCard.js",
+      "lines": 339,
+      "sizeBytes": 15824
+    },
+    {
+      "file": "open-sse/handlers/chatCore.js",
+      "lines": 338,
+      "sizeBytes": 19444
+    },
+    {
+      "file": "open-sse/executors/default.js",
+      "lines": 333,
+      "sizeBytes": 16204
+    },
+    {
+      "file": "open-sse/services/kiroModels.js",
+      "lines": 333,
+      "sizeBytes": 11987
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/MitmServerCard.js",
+      "lines": 330,
+      "sizeBytes": 15634
+    },
+    {
+      "file": "open-sse/translator/request/openai-responses.js",
+      "lines": 329,
+      "sizeBytes": 12737
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/usage/components/ProviderTopology.js",
+      "lines": 328,
+      "sizeBytes": 11484
+    },
+    {
+      "file": "src/sse/services/tokenRefresh.js",
+      "lines": 326,
+      "sizeBytes": 12944
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/CopilotToolCard.js",
+      "lines": 324,
+      "sizeBytes": 14711
+    },
+    {
+      "file": "cli/src/cli/tray/tray.js",
+      "lines": 323,
+      "sizeBytes": 10511
+    },
+    {
+      "file": "src/lib/oauth/services/antigravity.js",
+      "lines": 322,
+      "sizeBytes": 9707
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/MitmToolCard.js",
+      "lines": 319,
+      "sizeBytes": 13670
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/[id]/ConnectionRow.js",
+      "lines": 319,
+      "sizeBytes": 14679
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/HermesToolCard.js",
+      "lines": 318,
+      "sizeBytes": 14728
+    },
+    {
+      "file": "tests/translator/__snapshots__/golden-request.test.js.snap",
+      "lines": 318,
+      "sizeBytes": 8027
+    },
+    {
+      "file": "src/shared/components/EditConnectionModal.js",
+      "lines": 317,
+      "sizeBytes": 11926
+    },
+    {
+      "file": "open-sse/utils/bypassHandler.js",
+      "lines": 314,
+      "sizeBytes": 9797
+    },
+    {
+      "file": "src/sse/services/auth.js",
+      "lines": 313,
+      "sizeBytes": 13678
+    },
+    {
+      "file": "open-sse/handlers/chatCore/nonStreamingHandler.js",
+      "lines": 311,
+      "sizeBytes": 13532
+    },
+    {
+      "file": "cli/src/cli/tray/autostart.js",
+      "lines": 307,
+      "sizeBytes": 10698
+    },
+    {
+      "file": "open-sse/services/projectId.js",
+      "lines": 307,
+      "sizeBytes": 11994
+    },
+    {
+      "file": "tests/unit/perplexity-web.test.js",
+      "lines": 307,
+      "sizeBytes": 11231
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/translator/page.js",
+      "lines": 304,
+      "sizeBytes": 12299
+    },
+    {
+      "file": "open-sse/providers/pricing.js",
+      "lines": 303,
+      "sizeBytes": 21477
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/ClineToolCard.js",
+      "lines": 302,
+      "sizeBytes": 15209
+    },
+    {
+      "file": "src/shared/services/quotaAutoPing.js",
+      "lines": 299,
+      "sizeBytes": 10508
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/components/ModelsCard.js",
+      "lines": 295,
+      "sizeBytes": 13322
+    },
+    {
+      "file": "src/app/api/cli-tools/openclaw-settings/route.js",
+      "lines": 295,
+      "sizeBytes": 10556
+    },
+    {
+      "file": "tests/translator/real/all-formats.real.test.js",
+      "lines": 294,
+      "sizeBytes": 13437
+    },
+    {
+      "file": "src/sse/handlers/chat.js",
+      "lines": 293,
+      "sizeBytes": 12452
+    },
+    {
+      "file": "open-sse/providers/capabilities.js",
+      "lines": 292,
+      "sizeBytes": 23504
+    },
+    {
+      "file": "tests/unit/rtkKiro.test.js",
+      "lines": 292,
+      "sizeBytes": 9885
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/media-providers/[kind]/[id]/components/SttExampleCard.js",
+      "lines": 291,
+      "sizeBytes": 13562
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/media-providers/[kind]/page.js",
+      "lines": 290,
+      "sizeBytes": 11563
+    },
+    {
+      "file": "tests/unit/security-audit.test.js",
+      "lines": 290,
+      "sizeBytes": 11240
+    },
+    {
+      "file": "open-sse/translator/concerns/thinkingUnified.js",
+      "lines": 288,
+      "sizeBytes": 11821
+    },
+    {
+      "file": "src/lib/db/migrate.js",
+      "lines": 287,
+      "sizeBytes": 13428
+    },
+    {
+      "file": "open-sse/translator/index.js",
+      "lines": 285,
+      "sizeBytes": 10973
+    },
+    {
+      "file": "src/shared/services/initializeApp.js",
+      "lines": 283,
+      "sizeBytes": 10632
+    },
+    {
+      "file": "cli/scripts/build-cli.js",
+      "lines": 282,
+      "sizeBytes": 10995
+    },
+    {
+      "file": "tests/unit/dashboard-guard.test.js",
+      "lines": 280,
+      "sizeBytes": 9630
+    },
+    {
+      "file": "open-sse/config/kiroConstants.js",
+      "lines": 278,
+      "sizeBytes": 10614
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/KiloToolCard.js",
+      "lines": 276,
+      "sizeBytes": 13657
+    },
+    {
+      "file": "tests/unit/db-sqlite-vs-lowdb.test.js",
+      "lines": 275,
+      "sizeBytes": 11872
+    },
+    {
+      "file": "scripts/migrate-registry.mjs",
+      "lines": 272,
+      "sizeBytes": 9574
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/DefaultToolCard.js",
+      "lines": 272,
+      "sizeBytes": 10778
+    },
+    {
+      "file": "tests/unit/provider-validation.test.js",
+      "lines": 272,
+      "sizeBytes": 9749
+    },
+    {
+      "file": "open-sse/services/usage/misc.js",
+      "lines": 270,
+      "sizeBytes": 9041
+    },
+    {
+      "file": "src/mitm/cert/install.js",
+      "lines": 270,
+      "sizeBytes": 9521
+    },
+    {
+      "file": "src/mitm/dns/dnsConfig.js",
+      "lines": 267,
+      "sizeBytes": 9454
+    },
+    {
+      "file": "open-sse/translator/response/openai-to-claude.js",
+      "lines": 266,
+      "sizeBytes": 9302
+    },
+    {
+      "file": "src/app/api/cli-tools/opencode-settings/route.js",
+      "lines": 266,
+      "sizeBytes": 9269
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/usage/components/ProviderLimits/QuotaTable.js",
+      "lines": 265,
+      "sizeBytes": 9714
+    },
+    {
+      "file": "open-sse/translator/request/claude-to-openai.js",
+      "lines": 264,
+      "sizeBytes": 8353
+    },
+    {
+      "file": "open-sse/translator/response/kiro-to-claude.js",
+      "lines": 262,
+      "sizeBytes": 8400
+    },
+    {
+      "file": "open-sse/utils/requestLogger.js",
+      "lines": 261,
+      "sizeBytes": 8399
+    },
+    {
+      "file": "src/dashboardGuard.js",
+      "lines": 261,
+      "sizeBytes": 8776
+    },
+    {
+      "file": "tests/unit/gemini-native-endpoint.test.js",
+      "lines": 261,
+      "sizeBytes": 9825
+    },
+    {
+      "file": "src/app/api/oauth/cursor/auto-import/route.js",
+      "lines": 259,
+      "sizeBytes": 7178
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/usage/components/UsageTable.js",
+      "lines": 256,
+      "sizeBytes": 9518
+    },
+    {
+      "file": "src/shared/components/McpMarketplaceModal.js",
+      "lines": 256,
+      "sizeBytes": 11926
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/media-providers/[kind]/[id]/components/EmbeddingExampleCard.js",
+      "lines": 255,
+      "sizeBytes": 11281
+    },
+    {
+      "file": "open-sse/utils/streamHandler.js",
+      "lines": 254,
+      "sizeBytes": 9429
+    },
+    {
+      "file": "tests/unit/headroom-chat-core.test.js",
+      "lines": 254,
+      "sizeBytes": 9327
+    },
+    {
+      "file": "open-sse/services/tokenRefresh.js",
+      "lines": 251,
+      "sizeBytes": 8215
+    },
+    {
+      "file": "tests/unit/mimo-free.test.js",
+      "lines": 251,
+      "sizeBytes": 10219
+    },
+    {
+      "file": "gitbook/content/en/integration/continue.md",
+      "lines": 250,
+      "sizeBytes": 6420
+    },
+    {
+      "file": "gitbook/content/es/integration/continue.md",
+      "lines": 250,
+      "sizeBytes": 7172
+    },
+    {
+      "file": "gitbook/content/ja/integration/continue.md",
+      "lines": 250,
+      "sizeBytes": 7412
+    },
+    {
+      "file": "gitbook/content/vi/integration/continue.md",
+      "lines": 250,
+      "sizeBytes": 6683
+    },
+    {
+      "file": "gitbook/content/zh-CN/integration/continue.md",
+      "lines": 250,
+      "sizeBytes": 6164
+    },
+    {
+      "file": "gitbook/content/en/getting-started/quick-start.md",
+      "lines": 248,
+      "sizeBytes": 5891
+    },
+    {
+      "file": "gitbook/content/es/getting-started/quick-start.md",
+      "lines": 248,
+      "sizeBytes": 6300
+    },
+    {
+      "file": "gitbook/content/ja/getting-started/quick-start.md",
+      "lines": 248,
+      "sizeBytes": 6883
+    },
+    {
+      "file": "gitbook/content/vi/getting-started/quick-start.md",
+      "lines": 248,
+      "sizeBytes": 6201
+    },
+    {
+      "file": "gitbook/content/zh-CN/getting-started/quick-start.md",
+      "lines": 248,
+      "sizeBytes": 5745
+    },
+    {
+      "file": "src/app/login/page.js",
+      "lines": 248,
+      "sizeBytes": 9480
+    },
+    {
+      "file": "open-sse/services/usage/google.js",
+      "lines": 244,
+      "sizeBytes": 7933
+    },
+    {
+      "file": "gitbook/constants/docsConfig.js",
+      "lines": 243,
+      "sizeBytes": 7436
+    },
+    {
+      "file": "open-sse/translator/request/antigravity-to-openai.js",
+      "lines": 243,
+      "sizeBytes": 7537
+    },
+    {
+      "file": "src/lib/oauth/services/gemini.js",
+      "lines": 241,
+      "sizeBytes": 6885
+    },
+    {
+      "file": "src/lib/db/repos/connectionsRepo.js",
+      "lines": 240,
+      "sizeBytes": 8894
+    },
+    {
+      "file": "tests/unit/minimax-usage.test.js",
+      "lines": 240,
+      "sizeBytes": 6813
+    },
+    {
+      "file": "src/app/api/cli-tools/codex-settings/route.js",
+      "lines": 239,
+      "sizeBytes": 7657
+    },
+    {
+      "file": "src/lib/oauth/services/xai.js",
+      "lines": 239,
+      "sizeBytes": 7839
+    },
+    {
+      "file": "open-sse/handlers/fetch/index.js",
+      "lines": 238,
+      "sizeBytes": 8444
+    },
+    {
+      "file": "open-sse/handlers/chatCore/sseToJsonHandler.js",
+      "lines": 236,
+      "sizeBytes": 11395
+    },
+    {
+      "file": "src/lib/updater/updater.js",
+      "lines": 236,
+      "sizeBytes": 7837
+    },
+    {
+      "file": "open-sse/services/usage/minimax.js",
+      "lines": 235,
+      "sizeBytes": 9372
+    },
+    {
+      "file": "src/lib/auth/oidc.js",
+      "lines": 235,
+      "sizeBytes": 6662
+    },
+    {
+      "file": "tests/__baseline__/alias-baseline.json",
+      "lines": 235,
+      "sizeBytes": 5628
+    },
+    {
+      "file": "tests/unit/kimchi.test.js",
+      "lines": 235,
+      "sizeBytes": 9342
+    },
+    {
+      "file": "cli/src/cli/menus/apiKeys.js",
+      "lines": 234,
+      "sizeBytes": 7976
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/[id]/CompatibleModelsSection.js",
+      "lines": 233,
+      "sizeBytes": 9029
+    },
+    {
+      "file": "tests/unit/buildOutputFilter.test.js",
+      "lines": 233,
+      "sizeBytes": 9085
+    },
+    {
+      "file": "open-sse/utils/sessionManager.js",
+      "lines": 232,
+      "sizeBytes": 9428
+    },
+    {
+      "file": "open-sse/handlers/imageGenerationCore.js",
+      "lines": 231,
+      "sizeBytes": 8598
+    },
+    {
+      "file": "tests/translator/__snapshots__/golden-translator-concerns.test.js.snap",
+      "lines": 227,
+      "sizeBytes": 4889
+    },
+    {
+      "file": "src/lib/oauth/services/github.js",
+      "lines": 226,
+      "sizeBytes": 7177
+    },
+    {
+      "file": "src/mitm/handlers/base.js",
+      "lines": 226,
+      "sizeBytes": 7709
+    },
+    {
+      "file": "open-sse/handlers/search/normalizers.js",
+      "lines": 224,
+      "sizeBytes": 8823
+    },
+    {
+      "file": "scripts/injectDisplayToRegistry.mjs",
+      "lines": 224,
+      "sizeBytes": 8322
+    },
+    {
+      "file": "src/sse/handlers/fetch.js",
+      "lines": 223,
+      "sizeBytes": 8659
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/components/AddCompatibleModal.js",
+      "lines": 222,
+      "sizeBytes": 7434
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/new/page.js",
+      "lines": 221,
+      "sizeBytes": 7577
+    },
+    {
+      "file": "gitbook/utils/markdown.js",
+      "lines": 219,
+      "sizeBytes": 8021
+    },
+    {
+      "file": "src/app/api/cli-tools/jcode-settings/route.js",
+      "lines": 217,
+      "sizeBytes": 5838
+    },
+    {
+      "file": "src/lib/oauth/services/qoder.js",
+      "lines": 217,
+      "sizeBytes": 7525
+    },
+    {
+      "file": "tests/unit/antigravity-cache.test.js",
+      "lines": 217,
+      "sizeBytes": 9764
+    },
+    {
+      "file": "tests/unit/combo-fusion.test.js",
+      "lines": 217,
+      "sizeBytes": 8832
+    },
+    {
+      "file": "open-sse/rtk/headroom.js",
+      "lines": 216,
+      "sizeBytes": 8187
+    },
+    {
+      "file": "open-sse/services/accountFallback.js",
+      "lines": 216,
+      "sizeBytes": 7526
+    },
+    {
+      "file": "open-sse/services/qoderModels.js",
+      "lines": 215,
+      "sizeBytes": 7369
+    },
+    {
+      "file": "src/app/api/cli-tools/droid-settings/route.js",
+      "lines": 215,
+      "sizeBytes": 7248
+    },
+    {
+      "file": "src/shared/components/KiroSocialOAuthModal.js",
+      "lines": 215,
+      "sizeBytes": 7448
+    },
+    {
+      "file": "src/app/api/provider-nodes/validate/route.js",
+      "lines": 213,
+      "sizeBytes": 7907
+    },
+    {
+      "file": "src/shared/components/CursorAuthModal.js",
+      "lines": 213,
+      "sizeBytes": 7734
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/media-providers/[kind]/[id]/page.js",
+      "lines": 211,
+      "sizeBytes": 9393
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/media-providers/web/page.js",
+      "lines": 210,
+      "sizeBytes": 9074
+    },
+    {
+      "file": "src/shared/components/PricingModal.js",
+      "lines": 208,
+      "sizeBytes": 8025
+    },
+    {
+      "file": "tests/unit/kiro-external-idp.test.js",
+      "lines": 208,
+      "sizeBytes": 7620
+    },
+    {
+      "file": "src/sse/handlers/search.js",
+      "lines": 207,
+      "sizeBytes": 7982
+    },
+    {
+      "file": "tests/unit/openai-to-claude.test.js",
+      "lines": 207,
+      "sizeBytes": 7311
+    },
+    {
+      "file": "cli/src/cli/menus/settings.js",
+      "lines": 205,
+      "sizeBytes": 6637
+    },
+    {
+      "file": "src/app/api/cli-tools/claude-settings/route.js",
+      "lines": 204,
+      "sizeBytes": 5602
+    },
+    {
+      "file": "src/app/api/cli-tools/antigravity-mitm/route.js",
+      "lines": 203,
+      "sizeBytes": 6854
+    },
+    {
+      "file": "src/lib/oauth/services/iflow.js",
+      "lines": 203,
+      "sizeBytes": 5616
+    },
+    {
+      "file": "gitbook/content/en/integration/cline.md",
+      "lines": 202,
+      "sizeBytes": 5849
+    },
+    {
+      "file": "gitbook/content/es/integration/cline.md",
+      "lines": 202,
+      "sizeBytes": 6588
+    },
+    {
+      "file": "gitbook/content/ja/integration/cline.md",
+      "lines": 202,
+      "sizeBytes": 7136
+    },
+    {
+      "file": "gitbook/content/vi/integration/cline.md",
+      "lines": 202,
+      "sizeBytes": 6166
+    },
+    {
+      "file": "gitbook/content/zh-CN/integration/cline.md",
+      "lines": 202,
+      "sizeBytes": 5271
+    },
+    {
+      "file": "open-sse/handlers/search/index.js",
+      "lines": 202,
+      "sizeBytes": 7697
+    },
+    {
+      "file": "open-sse/services/usage/codex.js",
+      "lines": 202,
+      "sizeBytes": 7151
+    },
+    {
+      "file": "scripts/translate-readme.js",
+      "lines": 202,
+      "sizeBytes": 6813
+    },
+    {
+      "file": "src/lib/appUpdater.js",
+      "lines": 201,
+      "sizeBytes": 8203
+    },
+    {
+      "file": "src/lib/db/repos/requestDetailsRepo.js",
+      "lines": 201,
+      "sizeBytes": 8050
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/codex.js",
+      "lines": 200,
+      "sizeBytes": 7410
+    },
+    {
+      "file": "open-sse/providers/registry/index.js",
+      "lines": 199,
+      "sizeBytes": 4153
+    },
+    {
+      "file": "tests/unit/codex-reset-credits.test.js",
+      "lines": 199,
+      "sizeBytes": 7486
+    },
+    {
+      "file": "src/app/api/providers/route.js",
+      "lines": 198,
+      "sizeBytes": 7456
+    },
+    {
+      "file": "open-sse/translator/request/openai-to-ollama.js",
+      "lines": 196,
+      "sizeBytes": 5482
+    },
+    {
+      "file": "open-sse/translator/response/claude-to-openai.js",
+      "lines": 196,
+      "sizeBytes": 8378
+    },
+    {
+      "file": "public/i18n/literals/ar.json",
+      "lines": 196,
+      "sizeBytes": 11953
+    },
+    {
+      "file": "public/i18n/literals/bn.json",
+      "lines": 196,
+      "sizeBytes": 16786
+    },
+    {
+      "file": "public/i18n/literals/cs.json",
+      "lines": 196,
+      "sizeBytes": 10138
+    },
+    {
+      "file": "public/i18n/literals/da.json",
+      "lines": 196,
+      "sizeBytes": 9703
+    },
+    {
+      "file": "public/i18n/literals/de.json",
+      "lines": 196,
+      "sizeBytes": 10248
+    },
+    {
+      "file": "public/i18n/literals/el.json",
+      "lines": 196,
+      "sizeBytes": 15226
+    },
+    {
+      "file": "public/i18n/literals/es.json",
+      "lines": 196,
+      "sizeBytes": 10361
+    },
+    {
+      "file": "public/i18n/literals/fa.json",
+      "lines": 196,
+      "sizeBytes": 12460
+    },
+    {
+      "file": "public/i18n/literals/fi.json",
+      "lines": 196,
+      "sizeBytes": 10421
+    },
+    {
+      "file": "public/i18n/literals/fr.json",
+      "lines": 196,
+      "sizeBytes": 10512
+    },
+    {
+      "file": "public/i18n/literals/he.json",
+      "lines": 196,
+      "sizeBytes": 10911
+    },
+    {
+      "file": "public/i18n/literals/hi.json",
+      "lines": 196,
+      "sizeBytes": 16397
+    },
+    {
+      "file": "public/i18n/literals/hu.json",
+      "lines": 196,
+      "sizeBytes": 10566
+    },
+    {
+      "file": "public/i18n/literals/id.json",
+      "lines": 196,
+      "sizeBytes": 9726
+    },
+    {
+      "file": "public/i18n/literals/it.json",
+      "lines": 196,
+      "sizeBytes": 10141
+    },
+    {
+      "file": "public/i18n/literals/ja.json",
+      "lines": 196,
+      "sizeBytes": 11671
+    },
+    {
+      "file": "public/i18n/literals/ko.json",
+      "lines": 196,
+      "sizeBytes": 10279
+    },
+    {
+      "file": "public/i18n/literals/nl.json",
+      "lines": 196,
+      "sizeBytes": 9959
+    },
+    {
+      "file": "public/i18n/literals/no.json",
+      "lines": 196,
+      "sizeBytes": 9726
+    },
+    {
+      "file": "public/i18n/literals/pl.json",
+      "lines": 196,
+      "sizeBytes": 10235
+    },
+    {
+      "file": "public/i18n/literals/pt-BR.json",
+      "lines": 196,
+      "sizeBytes": 10059
+    },
+    {
+      "file": "public/i18n/literals/pt-PT.json",
+      "lines": 196,
+      "sizeBytes": 10267
+    },
+    {
+      "file": "public/i18n/literals/ro.json",
+      "lines": 196,
+      "sizeBytes": 10264
+    },
+    {
+      "file": "public/i18n/literals/ru.json",
+      "lines": 196,
+      "sizeBytes": 13704
+    },
+    {
+      "file": "public/i18n/literals/sv.json",
+      "lines": 196,
+      "sizeBytes": 9863
+    },
+    {
+      "file": "public/i18n/literals/th.json",
+      "lines": 196,
+      "sizeBytes": 15765
+    },
+    {
+      "file": "public/i18n/literals/tl.json",
+      "lines": 196,
+      "sizeBytes": 10337
+    },
+    {
+      "file": "public/i18n/literals/tr.json",
+      "lines": 196,
+      "sizeBytes": 10257
+    },
+    {
+      "file": "public/i18n/literals/uk.json",
+      "lines": 196,
+      "sizeBytes": 13681
+    },
+    {
+      "file": "public/i18n/literals/ur.json",
+      "lines": 196,
+      "sizeBytes": 12809
+    },
+    {
+      "file": "public/i18n/literals/vi.json",
+      "lines": 196,
+      "sizeBytes": 10902
+    },
+    {
+      "file": "public/i18n/literals/zh-TW.json",
+      "lines": 196,
+      "sizeBytes": 9246
+    },
+    {
+      "file": "src/shared/components/GitLabAuthModal.js",
+      "lines": 195,
+      "sizeBytes": 7703
+    },
+    {
+      "file": "tests/unit/model-test-routing.test.js",
+      "lines": 195,
+      "sizeBytes": 5772
+    },
+    {
+      "file": "open-sse/handlers/sttCore.js",
+      "lines": 194,
+      "sizeBytes": 8705
+    },
+    {
+      "file": "src/app/api/models/test/ping.js",
+      "lines": 194,
+      "sizeBytes": 7272
+    },
+    {
+      "file": "src/app/api/usage/[connectionId]/route.js",
+      "lines": 192,
+      "sizeBytes": 7356
+    },
+    {
+      "file": "src/shared/components/LanguageSwitcher.js",
+      "lines": 192,
+      "sizeBytes": 7945
+    },
+    {
+      "file": "gitbook/app/globals.css",
+      "lines": 191,
+      "sizeBytes": 3384
+    },
+    {
+      "file": "src/app/api/providers/[id]/route.js",
+      "lines": 190,
+      "sizeBytes": 6464
+    },
+    {
+      "file": "open-sse/services/usage/kiro.js",
+      "lines": 189,
+      "sizeBytes": 6340
+    },
+    {
+      "file": "tests/unit/cached-token-usage.test.js",
+      "lines": 189,
+      "sizeBytes": 8394
+    },
+    {
+      "file": "tests/unit/web-cookie-validation.test.js",
+      "lines": 188,
+      "sizeBytes": 7831
+    },
+    {
+      "file": "open-sse/executors/base.js",
+      "lines": 187,
+      "sizeBytes": 7900
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/usage/components/ProviderLimits/ProviderLimitCard.js",
+      "lines": 187,
+      "sizeBytes": 6007
+    },
+    {
+      "file": "tests/unit/translator-request-normalization.test.js",
+      "lines": 187,
+      "sizeBytes": 5260
+    },
+    {
+      "file": "open-sse/translator/request/openai-to-cursor.js",
+      "lines": 186,
+      "sizeBytes": 6342
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/components/ModelAvailabilityBadge.js",
+      "lines": 186,
+      "sizeBytes": 7327
+    },
+    {
+      "file": "src/i18n/config.js",
+      "lines": 186,
+      "sizeBytes": 3079
+    },
+    {
+      "file": "open-sse/translator/response/commandcode-to-openai.js",
+      "lines": 185,
+      "sizeBytes": 6658
+    },
+    {
+      "file": "tests/unit/oauth-cursor-auto-import.test.js",
+      "lines": 185,
+      "sizeBytes": 6463
+    },
+    {
+      "file": "src/shared/components/AddCustomEmbeddingModal.js",
+      "lines": 184,
+      "sizeBytes": 6216
+    },
+    {
+      "file": "tests/translator/real/vision-capability-survey.real.test.js",
+      "lines": 184,
+      "sizeBytes": 8818
+    },
+    {
+      "file": "tests/translator/bugs-toClaude-context.test.js",
+      "lines": 183,
+      "sizeBytes": 8599
+    },
+    {
+      "file": "open-sse/config/appConstants.js",
+      "lines": 182,
+      "sizeBytes": 6263
+    },
+    {
+      "file": "tests/unit/openai-to-commandcode.test.js",
+      "lines": 182,
+      "sizeBytes": 6581
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/cloudflareAi.js",
+      "lines": 180,
+      "sizeBytes": 5193
+    },
+    {
+      "file": "src/lib/oauth/services/cursor.js",
+      "lines": 180,
+      "sizeBytes": 5815
+    },
+    {
+      "file": "tests/translator/claude-kiro-direct.test.js",
+      "lines": 180,
+      "sizeBytes": 7197
+    },
+    {
+      "file": "open-sse/executors/vertex.js",
+      "lines": 178,
+      "sizeBytes": 7092
+    },
+    {
+      "file": "open-sse/services/kimchiModels.js",
+      "lines": 177,
+      "sizeBytes": 5946
+    },
+    {
+      "file": "src/shared/components/ComboFormModal.js",
+      "lines": 177,
+      "sizeBytes": 8981
+    },
+    {
+      "file": "open-sse/shared/qoder/cosy.js",
+      "lines": 176,
+      "sizeBytes": 5907
+    },
+    {
+      "file": "src/app/api/cli-tools/hermes-settings/route.js",
+      "lines": 176,
+      "sizeBytes": 5930
+    },
+    {
+      "file": "src/app/landing/components/FlowAnimation.js",
+      "lines": 176,
+      "sizeBytes": 6340
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/BaseUrlSelect.js",
+      "lines": 175,
+      "sizeBytes": 6088
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/[id]/PassthroughModelsSection.js",
+      "lines": 175,
+      "sizeBytes": 6480
+    },
+    {
+      "file": "src/app/api/proxy-pools/deno-deploy/route.js",
+      "lines": 175,
+      "sizeBytes": 5405
+    },
+    {
+      "file": "tests/unit/db-benchmark.test.js",
+      "lines": 175,
+      "sizeBytes": 6544
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/[toolId]/ToolDetailClient.js",
+      "lines": 174,
+      "sizeBytes": 8015
+    },
+    {
+      "file": "src/mitm/cert/rootCA.js",
+      "lines": 174,
+      "sizeBytes": 4832
+    },
+    {
+      "file": "open-sse/translator/request/openai-to-commandcode.js",
+      "lines": 173,
+      "sizeBytes": 5731
+    },
+    {
+      "file": "src/app/dashboard/settings/pricing/page.js",
+      "lines": 173,
+      "sizeBytes": 6167
+    },
+    {
+      "file": "tests/unit/codex-refresh-token.test.js",
+      "lines": 173,
+      "sizeBytes": 6730
+    },
+    {
+      "file": "src/lib/db/index.js",
+      "lines": 172,
+      "sizeBytes": 7900
+    },
+    {
+      "file": "tests/unit/db-concurrent.test.js",
+      "lines": 172,
+      "sizeBytes": 6264
+    },
+    {
+      "file": "src/lib/oauth/services/qwen.js",
+      "lines": 171,
+      "sizeBytes": 4792
+    },
+    {
+      "file": "open-sse/handlers/ttsProviders/genericFormats.js",
+      "lines": 170,
+      "sizeBytes": 5976
+    },
+    {
+      "file": "open-sse/services/provider.js",
+      "lines": 170,
+      "sizeBytes": 6334
+    },
+    {
+      "file": "src/lib/mcp/stdioSseBridge.js",
+      "lines": 170,
+      "sizeBytes": 6158
+    },
+    {
+      "file": "tests/unit/compatible-provider-connections.test.js",
+      "lines": 170,
+      "sizeBytes": 5439
+    },
+    {
+      "file": "tests/translator/real/file-base64-survey.real.test.js",
+      "lines": 169,
+      "sizeBytes": 8931
+    },
+    {
+      "file": "tests/translator/real/provider-cases.real.test.js",
+      "lines": 169,
+      "sizeBytes": 7320
+    },
+    {
+      "file": "open-sse/executors/mimo-free.js",
+      "lines": 168,
+      "sizeBytes": 6067
+    },
+    {
+      "file": "open-sse/utils/claudeCloaking.js",
+      "lines": 166,
+      "sizeBytes": 8890
+    },
+    {
+      "file": "src/shared/constants/providers.js",
+      "lines": 166,
+      "sizeBytes": 6793
+    },
+    {
+      "file": "gitbook/content/en/deployment/localhost.md",
+      "lines": 165,
+      "sizeBytes": 2876
+    },
+    {
+      "file": "gitbook/content/en/index.md",
+      "lines": 165,
+      "sizeBytes": 4468
+    },
+    {
+      "file": "gitbook/content/es/deployment/localhost.md",
+      "lines": 165,
+      "sizeBytes": 3088
+    },
+    {
+      "file": "gitbook/content/es/index.md",
+      "lines": 165,
+      "sizeBytes": 5007
+    },
+    {
+      "file": "gitbook/content/ja/deployment/localhost.md",
+      "lines": 165,
+      "sizeBytes": 3465
+    },
+    {
+      "file": "gitbook/content/ja/index.md",
+      "lines": 165,
+      "sizeBytes": 5754
+    },
+    {
+      "file": "gitbook/content/vi/deployment/localhost.md",
+      "lines": 165,
+      "sizeBytes": 2983
+    },
+    {
+      "file": "gitbook/content/vi/index.md",
+      "lines": 165,
+      "sizeBytes": 5091
+    },
+    {
+      "file": "gitbook/content/zh-CN/deployment/localhost.md",
+      "lines": 165,
+      "sizeBytes": 2587
+    },
+    {
+      "file": "gitbook/content/zh-CN/index.md",
+      "lines": 165,
+      "sizeBytes": 4369
+    },
+    {
+      "file": "src/app/api/cli-tools/deepseek-tui-settings/route.js",
+      "lines": 164,
+      "sizeBytes": 5566
+    },
+    {
+      "file": "src/i18n/runtime.js",
+      "lines": 163,
+      "sizeBytes": 4405
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/[id]/EditCompatibleNodeModal.js",
+      "lines": 162,
+      "sizeBytes": 5661
+    },
+    {
+      "file": "tests/unit/codex-image-fetch.test.js",
+      "lines": 162,
+      "sizeBytes": 5216
+    },
+    {
+      "file": "open-sse/translator/response/kiro-to-openai.js",
+      "lines": 161,
+      "sizeBytes": 5449
+    },
+    {
+      "file": "src/lib/network/connectionProxy.js",
+      "lines": 161,
+      "sizeBytes": 3797
+    },
+    {
+      "file": "tests/unit/reasoningContentInjector.test.js",
+      "lines": 161,
+      "sizeBytes": 6683
+    },
+    {
+      "file": "src/lib/db/schema.js",
+      "lines": 158,
+      "sizeBytes": 4811
+    },
+    {
+      "file": "src/lib/oauth/services/oauth.js",
+      "lines": 158,
+      "sizeBytes": 4437
+    },
+    {
+      "file": "cli/hooks/sqliteRuntime.js",
+      "lines": 157,
+      "sizeBytes": 6331
+    },
+    {
+      "file": "cli/src/cli/utils/display.js",
+      "lines": 157,
+      "sizeBytes": 4096
+    },
+    {
+      "file": "cli/src/cli/utils/input.js",
+      "lines": 157,
+      "sizeBytes": 5196
+    },
+    {
+      "file": "cli/src/cli/utils/menuHelper.js",
+      "lines": 157,
+      "sizeBytes": 4419
+    },
+    {
+      "file": "open-sse/services/oauthCredentialManager.js",
+      "lines": 157,
+      "sizeBytes": 5294
+    },
+    {
+      "file": "src/app/api/usage/[connectionId]/codex-reset-credits/route.js",
+      "lines": 157,
+      "sizeBytes": 6324
+    },
+    {
+      "file": "open-sse/rtk/index.js",
+      "lines": 156,
+      "sizeBytes": 5854
+    },
+    {
+      "file": "open-sse/services/copilotModels.js",
+      "lines": 156,
+      "sizeBytes": 5655
+    },
+    {
+      "file": "open-sse/translator/concerns/modality.js",
+      "lines": 156,
+      "sizeBytes": 5828
+    },
+    {
+      "file": "src/lib/oauth/kiroExternalIdp.js",
+      "lines": 156,
+      "sizeBytes": 5200
+    },
+    {
+      "file": "tests/translator/thinking-unified.test.js",
+      "lines": 156,
+      "sizeBytes": 7554
+    },
+    {
+      "file": "open-sse/translator/concerns/toolCall.js",
+      "lines": 154,
+      "sizeBytes": 5439
+    },
+    {
+      "file": "tests/unit/force-stream-config.test.js",
+      "lines": 154,
+      "sizeBytes": 4679
+    },
+    {
+      "file": "open-sse/translator/request/gemini-to-openai.js",
+      "lines": 153,
+      "sizeBytes": 4383
+    },
+    {
+      "file": "src/lib/tunnel/cloudflare/manager.js",
+      "lines": 152,
+      "sizeBytes": 5778
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/[id]/BulkImportCodexModal.js",
+      "lines": 151,
+      "sizeBytes": 4638
+    },
+    {
+      "file": "src/app/api/cli-tools/copilot-settings/route.js",
+      "lines": 151,
+      "sizeBytes": 4752
+    },
+    {
+      "file": "src/app/callback/page.js",
+      "lines": 151,
+      "sizeBytes": 5609
+    },
+    {
+      "file": "src/shared/components/Pagination.js",
+      "lines": 151,
+      "sizeBytes": 4813
+    },
+    {
+      "file": "gitbook/content/en/integration/cursor.md",
+      "lines": 150,
+      "sizeBytes": 4528
+    },
+    {
+      "file": "gitbook/content/es/integration/cursor.md",
+      "lines": 150,
+      "sizeBytes": 5136
+    },
+    {
+      "file": "gitbook/content/ja/integration/cursor.md",
+      "lines": 150,
+      "sizeBytes": 5739
+    },
+    {
+      "file": "gitbook/content/vi/integration/cursor.md",
+      "lines": 150,
+      "sizeBytes": 4719
+    },
+    {
+      "file": "gitbook/content/zh-CN/integration/cursor.md",
+      "lines": 150,
+      "sizeBytes": 4239
+    },
+    {
+      "file": "open-sse/utils/cursorChecksum.js",
+      "lines": 150,
+      "sizeBytes": 4674
+    },
+    {
+      "file": "open-sse/services/usage/claude.js",
+      "lines": 148,
+      "sizeBytes": 5061
+    },
+    {
+      "file": "open-sse/translator/response/gemini-to-openai.js",
+      "lines": 148,
+      "sizeBytes": 5607
+    },
+    {
+      "file": "open-sse/utils/error.js",
+      "lines": 148,
+      "sizeBytes": 5516
+    },
+    {
+      "file": "src/shared/components/Modal.js",
+      "lines": 147,
+      "sizeBytes": 4474
+    },
+    {
+      "file": "src/app/api/proxy-pools/cloudflare-deploy/route.js",
+      "lines": 146,
+      "sizeBytes": 5061
+    },
+    {
+      "file": "src/lib/oauth/services/codex.js",
+      "lines": 145,
+      "sizeBytes": 4373
+    },
+    {
+      "file": "src/app/api/proxy-pools/vercel-deploy/route.js",
+      "lines": 143,
+      "sizeBytes": 4544
+    },
+    {
+      "file": "src/sse/handlers/imageGeneration.js",
+      "lines": 143,
+      "sizeBytes": 5796
+    },
+    {
+      "file": "open-sse/translator/formats/responsesApi.js",
+      "lines": 142,
+      "sizeBytes": 5098
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/usage/components/UsageChart.js",
+      "lines": 142,
+      "sizeBytes": 4893
+    },
+    {
+      "file": "src/sse/handlers/embeddings.js",
+      "lines": 142,
+      "sizeBytes": 5246
+    },
+    {
+      "file": "src/lib/oauth/constants/oauth.js",
+      "lines": 141,
+      "sizeBytes": 5561
+    },
+    {
+      "file": "tests/unit/codex-tool-normalization.test.js",
+      "lines": 141,
+      "sizeBytes": 3923
+    },
+    {
+      "file": "open-sse/handlers/chatCore/streamingHandler.js",
+      "lines": 140,
+      "sizeBytes": 7783
+    },
+    {
+      "file": "open-sse/services/usage/codebuddy-cn.js",
+      "lines": 139,
+      "sizeBytes": 5611
+    },
+    {
+      "file": "src/shared/constants/ttsProviders.js",
+      "lines": 139,
+      "sizeBytes": 3940
+    },
+    {
+      "file": "src/app/api/oauth/iflow/cookie/route.js",
+      "lines": 138,
+      "sizeBytes": 4653
+    },
+    {
+      "file": "tests/unit/rtk.multi-provider.e2e.test.js",
+      "lines": 138,
+      "sizeBytes": 5558
+    },
+    {
+      "file": "cli/src/cli/utils/modelSelector.js",
+      "lines": 137,
+      "sizeBytes": 3733
+    },
+    {
+      "file": "gitbook/content/en/integration/codex.md",
+      "lines": 137,
+      "sizeBytes": 3136
+    },
+    {
+      "file": "gitbook/content/es/integration/codex.md",
+      "lines": 137,
+      "sizeBytes": 3528
+    },
+    {
+      "file": "gitbook/content/ja/integration/codex.md",
+      "lines": 137,
+      "sizeBytes": 3635
+    },
+    {
+      "file": "gitbook/content/vi/integration/codex.md",
+      "lines": 137,
+      "sizeBytes": 3228
+    },
+    {
+      "file": "gitbook/content/zh-CN/integration/codex.md",
+      "lines": 137,
+      "sizeBytes": 2856
+    },
+    {
+      "file": "open-sse/services/model.js",
+      "lines": 137,
+      "sizeBytes": 3993
+    },
+    {
+      "file": "src/lib/oauth/services/claude.js",
+      "lines": 137,
+      "sizeBytes": 3821
+    },
+    {
+      "file": "src/shared/components/DonateModal.js",
+      "lines": 137,
+      "sizeBytes": 5003
+    },
+    {
+      "file": "tests/unit/rtk.e2e.test.js",
+      "lines": 137,
+      "sizeBytes": 5711
+    },
+    {
+      "file": "src/app/api/cli-tools/cline-settings/route.js",
+      "lines": 136,
+      "sizeBytes": 5091
+    },
+    {
+      "file": "open-sse/translator/formats/openai.js",
+      "lines": 135,
+      "sizeBytes": 5107
+    },
+    {
+      "file": "open-sse/translator/response/ollama-to-openai.js",
+      "lines": 135,
+      "sizeBytes": 4528
+    },
+    {
+      "file": "src/app/api/cli-tools/kilo-settings/route.js",
+      "lines": 134,
+      "sizeBytes": 4773
+    },
+    {
+      "file": "src/app/api/pricing/route.js",
+      "lines": 134,
+      "sizeBytes": 4016
+    },
+    {
+      "file": "src/app/landing/components/Features.js",
+      "lines": 134,
+      "sizeBytes": 4312
+    },
+    {
+      "file": "src/lib/oauth/services/kimchi.js",
+      "lines": 134,
+      "sizeBytes": 4946
+    },
+    {
+      "file": "DOCKER.md",
+      "lines": 133,
+      "sizeBytes": 3235
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/usage/components/ProviderLimits/QuotaProgressBar.js",
+      "lines": 133,
+      "sizeBytes": 3747
+    },
+    {
+      "file": "src/app/api/oauth/kiro/auto-import/route.js",
+      "lines": 133,
+      "sizeBytes": 4433
+    },
+    {
+      "file": "src/shared/components/Footer.js",
+      "lines": 133,
+      "sizeBytes": 6184
+    },
+    {
+      "file": "src/shared/components/IFlowCookieModal.js",
+      "lines": 133,
+      "sizeBytes": 4428
+    },
+    {
+      "file": "images/fusion-combo-ui.png",
+      "lines": 132,
+      "sizeBytes": 68436
+    },
+    {
+      "file": "open-sse/config/ttsModels.js",
+      "lines": 132,
+      "sizeBytes": 5956
+    },
+    {
+      "file": "src/app/api/providers/test-batch/route.js",
+      "lines": 132,
+      "sizeBytes": 4615
+    },
+    {
+      "file": "cli/src/cli/tray/tray.ps1",
+      "lines": 131,
+      "sizeBytes": 4131
+    },
+    {
+      "file": "open-sse/executors/qwen.js",
+      "lines": 130,
+      "sizeBytes": 4928
+    },
+    {
+      "file": "src/lib/tunnel/tailscale/manager.js",
+      "lines": 130,
+      "sizeBytes": 5141
+    },
+    {
+      "file": "open-sse/handlers/ttsProviders/gemini.js",
+      "lines": 129,
+      "sizeBytes": 5654
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/EndpointPresetControl.js",
+      "lines": 129,
+      "sizeBytes": 4271
+    },
+    {
+      "file": "src/lib/headroom/process.js",
+      "lines": 129,
+      "sizeBytes": 3901
+    },
+    {
+      "file": "tests/unit/kimchi-strip-reasoning.test.js",
+      "lines": 129,
+      "sizeBytes": 4933
+    },
+    {
+      "file": "gitbook/content/en/integration/roo.md",
+      "lines": 128,
+      "sizeBytes": 3199
+    },
+    {
+      "file": "gitbook/content/es/integration/roo.md",
+      "lines": 128,
+      "sizeBytes": 3607
+    },
+    {
+      "file": "gitbook/content/ja/integration/roo.md",
+      "lines": 128,
+      "sizeBytes": 3728
+    },
+    {
+      "file": "gitbook/content/vi/integration/roo.md",
+      "lines": 128,
+      "sizeBytes": 3388
+    },
+    {
+      "file": "gitbook/content/zh-CN/integration/roo.md",
+      "lines": 128,
+      "sizeBytes": 3040
+    },
+    {
+      "file": "open-sse/rtk/filters/buildOutput.js",
+      "lines": 128,
+      "sizeBytes": 3727
+    },
+    {
+      "file": "src/app/api/providers/client/route.js",
+      "lines": 128,
+      "sizeBytes": 4799
+    },
+    {
+      "file": "tests/translator/real/antigravity-models.real.test.js",
+      "lines": 128,
+      "sizeBytes": 4542
+    },
+    {
+      "file": "tests/unit/commandcode-to-openai.test.js",
+      "lines": 128,
+      "sizeBytes": 5258
+    },
+    {
+      "file": "open-sse/handlers/embeddingsCore.js",
+      "lines": 127,
+      "sizeBytes": 4389
+    },
+    {
+      "file": "src/shared/components/HeaderMenu.js",
+      "lines": 127,
+      "sizeBytes": 4151
+    },
+    {
+      "file": "cli/README.md",
+      "lines": 126,
+      "sizeBytes": 4253
+    },
+    {
+      "file": "cli/src/cli/utils/format.js",
+      "lines": 126,
+      "sizeBytes": 3378
+    },
+    {
+      "file": "gitbook/components/DocsSidebar.js",
+      "lines": 126,
+      "sizeBytes": 4298
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/[id]/AddCustomModelModal.js",
+      "lines": 126,
+      "sizeBytes": 4407
+    },
+    {
+      "file": "tests/unit/xai-oauth-service.test.js",
+      "lines": 126,
+      "sizeBytes": 5192
+    },
+    {
+      "file": "open-sse/translator/concerns/image.js",
+      "lines": 125,
+      "sizeBytes": 5183
+    },
+    {
+      "file": "tests/unit/kiro-thinking-strip.test.js",
+      "lines": 125,
+      "sizeBytes": 4656
+    },
+    {
+      "file": "open-sse/executors/kimchi.js",
+      "lines": 124,
+      "sizeBytes": 4027
+    },
+    {
+      "file": "open-sse/translator/response/openai-to-antigravity.js",
+      "lines": 124,
+      "sizeBytes": 4199
+    },
+    {
+      "file": "src/app/api/proxy-pools/[id]/route.js",
+      "lines": 124,
+      "sizeBytes": 3852
+    },
+    {
+      "file": "src/lib/oauth/services/openai.js",
+      "lines": 124,
+      "sizeBytes": 3441
+    },
+    {
+      "file": "tests/translator/real/smoke-providers.real.test.js",
+      "lines": 124,
+      "sizeBytes": 5066
+    },
+    {
+      "file": "open-sse/utils/streamHelpers.js",
+      "lines": 123,
+      "sizeBytes": 3955
+    },
+    {
+      "file": "public/providers/playht.png",
+      "lines": 123,
+      "sizeBytes": 42560
+    },
+    {
+      "file": "tests/translator/AGENTS.md",
+      "lines": 123,
+      "sizeBytes": 7865
+    },
+    {
+      "file": "tests/translator/real/thinking.real.test.js",
+      "lines": 123,
+      "sizeBytes": 5359
+    },
+    {
+      "file": "cli/src/cli/terminalUI.js",
+      "lines": 122,
+      "sizeBytes": 3756
+    },
+    {
+      "file": "src/app/api/oauth/codex/bulk-import/route.js",
+      "lines": 122,
+      "sizeBytes": 3908
+    },
+    {
+      "file": "src/shared/components/RequestLogger.js",
+      "lines": 122,
+      "sizeBytes": 5223
+    },
+    {
+      "file": "tests/translator/bugs-openai-bridge.test.js",
+      "lines": 121,
+      "sizeBytes": 5456
+    },
+    {
+      "file": "tests/unit/minimax-tts.test.js",
+      "lines": 121,
+      "sizeBytes": 3676
+    },
+    {
+      "file": "open-sse/config/codexInstructions.js",
+      "lines": 120,
+      "sizeBytes": 11976
+    },
+    {
+      "file": "tests/translator/golden-response-stream.test.js",
+      "lines": 119,
+      "sizeBytes": 6299
+    },
+    {
+      "file": "open-sse/rtk/filters/gitStatus.js",
+      "lines": 118,
+      "sizeBytes": 3679
+    },
+    {
+      "file": "public/providers/copilot.png",
+      "lines": 118,
+      "sizeBytes": 49186
+    },
+    {
+      "file": "public/providers/github.png",
+      "lines": 118,
+      "sizeBytes": 49186
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/mitm/MitmPageClient.js",
+      "lines": 118,
+      "sizeBytes": 4237
+    },
+    {
+      "file": "src/app/api/settings/route.js",
+      "lines": 118,
+      "sizeBytes": 4557
+    },
+    {
+      "file": "public/providers/continue.png",
+      "lines": 117,
+      "sizeBytes": 60244
+    },
+    {
+      "file": "src/shared/components/Card.js",
+      "lines": 117,
+      "sizeBytes": 2753
+    },
+    {
+      "file": "open-sse/providers/registry/kiro.js",
+      "lines": 116,
+      "sizeBytes": 4960
+    },
+    {
+      "file": "src/lib/db/adapters/sqljsAdapter.js",
+      "lines": 116,
+      "sizeBytes": 2944
+    },
+    {
+      "file": "open-sse/rtk/autodetect.js",
+      "lines": 115,
+      "sizeBytes": 4826
+    },
+    {
+      "file": "src/sse/handlers/tts.js",
+      "lines": 115,
+      "sizeBytes": 5247
+    },
+    {
+      "file": "src/app/api/media-providers/tts/minimax/voices/route.js",
+      "lines": 114,
+      "sizeBytes": 3967
+    },
+    {
+      "file": "public/providers/aws-polly.png",
+      "lines": 113,
+      "sizeBytes": 53949
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/skills/page.js",
+      "lines": 113,
+      "sizeBytes": 3835
+    },
+    {
+      "file": "open-sse/rtk/cavemanPrompts.js",
+      "lines": 111,
+      "sizeBytes": 5247
+    },
+    {
+      "file": "src/lib/db/repos/settingsRepo.js",
+      "lines": 111,
+      "sizeBytes": 3183
+    },
+    {
+      "file": "gitbook/content/en/integration/claude-code.md",
+      "lines": 110,
+      "sizeBytes": 2750
+    },
+    {
+      "file": "gitbook/content/es/integration/claude-code.md",
+      "lines": 110,
+      "sizeBytes": 3095
+    },
+    {
+      "file": "gitbook/content/ja/integration/claude-code.md",
+      "lines": 110,
+      "sizeBytes": 3254
+    },
+    {
+      "file": "gitbook/content/vi/integration/claude-code.md",
+      "lines": 110,
+      "sizeBytes": 2832
+    },
+    {
+      "file": "gitbook/content/zh-CN/integration/claude-code.md",
+      "lines": 110,
+      "sizeBytes": 2541
+    },
+    {
+      "file": "src/shared/constants/config.js",
+      "lines": 110,
+      "sizeBytes": 3167
+    },
+    {
+      "file": "tests/translator/bugs-antigravity.test.js",
+      "lines": 110,
+      "sizeBytes": 4478
+    },
+    {
+      "file": "open-sse/executors/iflow.js",
+      "lines": 109,
+      "sizeBytes": 3365
+    },
+    {
+      "file": "src/lib/consoleLogBuffer.js",
+      "lines": 109,
+      "sizeBytes": 2741
+    },
+    {
+      "file": "src/lib/db/repos/pricingRepo.js",
+      "lines": 109,
+      "sizeBytes": 3676
+    },
+    {
+      "file": "tests/unit/modality-strip.test.js",
+      "lines": 109,
+      "sizeBytes": 5487
+    },
+    {
+      "file": "cli/hooks/trayRuntime.js",
+      "lines": 108,
+      "sizeBytes": 4411
+    },
+    {
+      "file": "tests/unit/base-executor-retry.test.js",
+      "lines": 108,
+      "sizeBytes": 4866
+    },
+    {
+      "file": "tests/unit/headroom-responses-format.test.js",
+      "lines": 108,
+      "sizeBytes": 3503
+    },
+    {
+      "file": "open-sse/config/providerModels.js",
+      "lines": 107,
+      "sizeBytes": 4531
+    },
+    {
+      "file": "src/app/landing/page.js",
+      "lines": 107,
+      "sizeBytes": 4515
+    },
+    {
+      "file": "src/mitm/logger.js",
+      "lines": 107,
+      "sizeBytes": 4002
+    },
+    {
+      "file": "tests/translator/golden-translator-concerns.test.js",
+      "lines": 107,
+      "sizeBytes": 5235
+    },
+    {
+      "file": "open-sse/handlers/chatCore/requestDetail.js",
+      "lines": 106,
+      "sizeBytes": 4227
+    },
+    {
+      "file": "src/app/api/headroom/proxy/[...path]/route.js",
+      "lines": 105,
+      "sizeBytes": 3204
+    },
+    {
+      "file": "src/app/api/provider-nodes/route.js",
+      "lines": 105,
+      "sizeBytes": 3814
+    },
+    {
+      "file": "src/app/api/v1/models/info/route.js",
+      "lines": 105,
+      "sizeBytes": 4193
+    },
+    {
+      "file": "src/shared/components/layouts/DashboardLayout.js",
+      "lines": 105,
+      "sizeBytes": 4017
+    },
+    {
+      "file": "open-sse/transformer/streamToJsonConverter.js",
+      "lines": 104,
+      "sizeBytes": 3412
+    },
+    {
+      "file": "public/providers/comfyui.png",
+      "lines": 104,
+      "sizeBytes": 53725
+    },
+    {
+      "file": "src/app/api/models/availability/route.js",
+      "lines": 104,
+      "sizeBytes": 3075
+    },
+    {
+      "file": "src/lib/db/repos/proxyPoolsRepo.js",
+      "lines": 104,
+      "sizeBytes": 3254
+    },
+    {
+      "file": "src/shared/components/KiroOAuthWrapper.js",
+      "lines": 104,
+      "sizeBytes": 2947
+    },
+    {
+      "file": "public/providers/minimax-cn.png",
+      "lines": 103,
+      "sizeBytes": 27564
+    },
+    {
+      "file": "public/providers/minimax.png",
+      "lines": 103,
+      "sizeBytes": 27564
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/[id]/ModelRow.js",
+      "lines": 103,
+      "sizeBytes": 4719
+    },
+    {
+      "file": "src/lib/headroom/detect.js",
+      "lines": 103,
+      "sizeBytes": 3832
+    },
+    {
+      "file": "src/app/api/provider-nodes/[id]/route.js",
+      "lines": 102,
+      "sizeBytes": 3619
+    },
+    {
+      "file": "open-sse/services/usage/github.js",
+      "lines": 101,
+      "sizeBytes": 3366
+    },
+    {
+      "file": "src/app/api/oauth/cursor/import/route.js",
+      "lines": 101,
+      "sizeBytes": 2937
+    },
+    {
+      "file": "tests/unit/db-migration-chain.test.js",
+      "lines": 101,
+      "sizeBytes": 4314
+    },
+    {
+      "file": "open-sse/handlers/responsesHandler.js",
+      "lines": 100,
+      "sizeBytes": 3753
+    },
+    {
+      "file": "open-sse/rtk/filters/gitLog.js",
+      "lines": 100,
+      "sizeBytes": 3007
+    },
+    {
+      "file": "skills/9router-web-fetch/SKILL.md",
+      "lines": 100,
+      "sizeBytes": 3314
+    },
+    {
+      "file": "src/app/api/media-providers/tts/voices/route.js",
+      "lines": 100,
+      "sizeBytes": 3410
+    },
+    {
+      "file": "src/shared/components/NineRemotePromoModal.js",
+      "lines": 100,
+      "sizeBytes": 4565
+    },
+    {
+      "file": "open-sse/providers/REGISTRY_TEMPLATE.js",
+      "lines": 99,
+      "sizeBytes": 6219
+    },
+    {
+      "file": "open-sse/rtk/systemInject.js",
+      "lines": 99,
+      "sizeBytes": 3412
+    },
+    {
+      "file": "src/shared/utils/apiKey.js",
+      "lines": 99,
+      "sizeBytes": 2561
+    },
+    {
+      "file": "src/app/landing/components/GetStarted.js",
+      "lines": 98,
+      "sizeBytes": 4880
+    },
+    {
+      "file": "src/shared/components/ChangelogModal.js",
+      "lines": 98,
+      "sizeBytes": 3332
+    },
+    {
+      "file": "gitbook/components/LanguageSwitcher.js",
+      "lines": 97,
+      "sizeBytes": 3506
+    },
+    {
+      "file": "open-sse/translator/concerns/prefetch.js",
+      "lines": 97,
+      "sizeBytes": 3601
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/console-log/ConsoleLogClient.js",
+      "lines": 97,
+      "sizeBytes": 2973
+    },
+    {
+      "file": "src/app/api/oauth/codex/import-token/route.js",
+      "lines": 97,
+      "sizeBytes": 3457
+    },
+    {
+      "file": "tests/unit/openai-responses-terminal-event.test.js",
+      "lines": 97,
+      "sizeBytes": 3379
+    },
+    {
+      "file": "open-sse/providers/registry/codex.js",
+      "lines": 96,
+      "sizeBytes": 4214
+    },
+    {
+      "file": "src/app/api/cli-tools/cowork-mcp-tools/route.js",
+      "lines": 96,
+      "sizeBytes": 3320
+    },
+    {
+      "file": "src/lib/db/repos/nodesRepo.js",
+      "lines": 96,
+      "sizeBytes": 2682
+    },
+    {
+      "file": "tests/unit/gemini-tts.test.js",
+      "lines": 96,
+      "sizeBytes": 3086
+    },
+    {
+      "file": "open-sse/executors/commandcode.js",
+      "lines": 95,
+      "sizeBytes": 3233
+    },
+    {
+      "file": "src/app/api/translator/send/route.js",
+      "lines": 95,
+      "sizeBytes": 4001
+    },
+    {
+      "file": "src/app/api/v1/messages/count_tokens/route.js",
+      "lines": 95,
+      "sizeBytes": 2694
+    },
+    {
+      "file": "src/sse/services/model.js",
+      "lines": 95,
+      "sizeBytes": 3592
+    },
+    {
+      "file": "src/app/api/proxy-pools/route.js",
+      "lines": 94,
+      "sizeBytes": 2996
+    },
+    {
+      "file": "src/shared/utils/api.js",
+      "lines": 94,
+      "sizeBytes": 2263
+    },
+    {
+      "file": "open-sse/rtk/filters/gitDiff.js",
+      "lines": 93,
+      "sizeBytes": 2676
+    },
+    {
+      "file": "CLAUDE.md",
+      "lines": 92,
+      "sizeBytes": 7952
+    },
+    {
+      "file": "skills/9router-web-search/SKILL.md",
+      "lines": 92,
+      "sizeBytes": 3433
+    },
+    {
+      "file": "src/lib/network/proxyTest.js",
+      "lines": 92,
+      "sizeBytes": 2499
+    },
+    {
+      "file": "src/app/api/translator/console-logs/stream/route.js",
+      "lines": 91,
+      "sizeBytes": 2904
+    },
+    {
+      "file": "src/app/api/translator/translate/route.js",
+      "lines": 91,
+      "sizeBytes": 3992
+    },
+    {
+      "file": "src/lib/oauth/providerHelpers.js",
+      "lines": 91,
+      "sizeBytes": 3199
+    },
+    {
+      "file": "cli/src/cli/tray/trayWin.js",
+      "lines": 90,
+      "sizeBytes": 2359
+    },
+    {
+      "file": "next.config.mjs",
+      "lines": 90,
+      "sizeBytes": 2579
+    },
+    {
+      "file": "open-sse/executors/gemini-cli.js",
+      "lines": 90,
+      "sizeBytes": 3062
+    },
+    {
+      "file": "open-sse/handlers/ttsProviders/edgeTts.js",
+      "lines": 90,
+      "sizeBytes": 3557
+    },
+    {
+      "file": "src/mitm/config.js",
+      "lines": 90,
+      "sizeBytes": 4188
+    },
+    {
+      "file": "public/providers/cline.png",
+      "lines": 89,
+      "sizeBytes": 27395
+    },
+    {
+      "file": "public/providers/clinepass.png",
+      "lines": 89,
+      "sizeBytes": 27395
+    },
+    {
+      "file": "src/shared/components/Avatar.js",
+      "lines": 89,
+      "sizeBytes": 1973
+    },
+    {
+      "file": "src/sse/handlers/stt.js",
+      "lines": 89,
+      "sizeBytes": 3866
+    },
+    {
+      "file": "open-sse/config/runtimeConfig.js",
+      "lines": 88,
+      "sizeBytes": 3087
+    },
+    {
+      "file": "open-sse/handlers/ttsProviders/localDevice.js",
+      "lines": 88,
+      "sizeBytes": 2964
+    },
+    {
+      "file": "open-sse/providers/registry/claude.js",
+      "lines": 88,
+      "sizeBytes": 2714
+    },
+    {
+      "file": "src/app/api/auth/oidc/callback/route.js",
+      "lines": 88,
+      "sizeBytes": 3044
+    },
+    {
+      "file": "tests/unit/gemini-usage-projectid.test.js",
+      "lines": 88,
+      "sizeBytes": 2634
+    },
+    {
+      "file": "skills/9router-image/SKILL.md",
+      "lines": 87,
+      "sizeBytes": 3424
+    },
+    {
+      "file": "src/shared/components/NoAuthProxyCard.js",
+      "lines": 87,
+      "sizeBytes": 3325
+    },
+    {
+      "file": "tests/unit/cursor-composer-thinking.test.js",
+      "lines": 87,
+      "sizeBytes": 3184
+    },
+    {
+      "file": "open-sse/config/errorConfig.js",
+      "lines": 86,
+      "sizeBytes": 3311
+    },
+    {
+      "file": "open-sse/executors/index.js",
+      "lines": 86,
+      "sizeBytes": 3642
+    },
+    {
+      "file": "open-sse/providers/registry/antigravity.js",
+      "lines": 86,
+      "sizeBytes": 3182
+    },
+    {
+      "file": "open-sse/utils/ollamaTransform.js",
+      "lines": 86,
+      "sizeBytes": 3510
+    },
+    {
+      "file": "src/lib/db/driver.js",
+      "lines": 86,
+      "sizeBytes": 3010
+    },
+    {
+      "file": "src/lib/network/outboundProxy.js",
+      "lines": 86,
+      "sizeBytes": 2623
+    },
+    {
+      "file": "scripts/test-combo-autoswitch.mjs",
+      "lines": 85,
+      "sizeBytes": 3460
+    },
+    {
+      "file": "src/app/api/auth/oidc/test/route.js",
+      "lines": 85,
+      "sizeBytes": 3045
+    },
+    {
+      "file": "src/lib/db/adapters/nodeSqliteAdapter.js",
+      "lines": 85,
+      "sizeBytes": 2910
+    },
+    {
+      "file": "tests/unit/cached-token-e2e.test.js",
+      "lines": 85,
+      "sizeBytes": 3174
+    },
+    {
+      "file": "tests/unit/count-tokens.test.js",
+      "lines": 85,
+      "sizeBytes": 2191
+    },
+    {
+      "file": "tests/unit/provider-custom-models.test.js",
+      "lines": 85,
+      "sizeBytes": 2603
+    },
+    {
+      "file": "open-sse/providers/registry/minimax.js",
+      "lines": 84,
+      "sizeBytes": 2954
+    },
+    {
+      "file": "public/providers/stability-ai.png",
+      "lines": 84,
+      "sizeBytes": 44448
+    },
+    {
+      "file": "src/app/api/auth/login/route.js",
+      "lines": 84,
+      "sizeBytes": 3640
+    },
+    {
+      "file": "tests/unit/finish-reason-concern.test.js",
+      "lines": 84,
+      "sizeBytes": 2830
+    },
+    {
+      "file": "tests/unit/minimax-voices.test.js",
+      "lines": 84,
+      "sizeBytes": 3319
+    },
+    {
+      "file": "tests/unit/provider-test-models-routing.test.js",
+      "lines": 84,
+      "sizeBytes": 2642
+    },
+    {
+      "file": "open-sse/providers/registry/github.js",
+      "lines": 83,
+      "sizeBytes": 3187
+    },
+    {
+      "file": "public/providers/coqui.png",
+      "lines": 83,
+      "sizeBytes": 29329
+    },
+    {
+      "file": "src/lib/auth/dashboardSession.js",
+      "lines": 83,
+      "sizeBytes": 2569
+    },
+    {
+      "file": "src/shared/components/Drawer.js",
+      "lines": 83,
+      "sizeBytes": 2252
+    },
+    {
+      "file": "src/shared/components/ProviderInfoCard.js",
+      "lines": 83,
+      "sizeBytes": 3315
+    },
+    {
+      "file": "open-sse/providers/registry/gemini.js",
+      "lines": 82,
+      "sizeBytes": 3805
+    },
+    {
+      "file": "open-sse/providers/registry/openai.js",
+      "lines": 82,
+      "sizeBytes": 3375
+    },
+    {
+      "file": "src/app/api/combos/[id]/route.js",
+      "lines": 82,
+      "sizeBytes": 2805
+    },
+    {
+      "file": "src/mitm/winElevated.js",
+      "lines": 82,
+      "sizeBytes": 2670
+    },
+    {
+      "file": "skills/9router-tts/SKILL.md",
+      "lines": 81,
+      "sizeBytes": 3143
+    },
+    {
+      "file": "tests/unit/model-routing.test.js",
+      "lines": 81,
+      "sizeBytes": 2232
+    },
+    {
+      "file": ".gitignore",
+      "lines": 80,
+      "sizeBytes": 1050
+    },
+    {
+      "file": "open-sse/index.js",
+      "lines": 80,
+      "sizeBytes": 2166
+    },
+    {
+      "file": "open-sse/rtk/filters/ls.js",
+      "lines": 80,
+      "sizeBytes": 2820
+    },
+    {
+      "file": "public/providers/codebuddy-cn.png",
+      "lines": 80,
+      "sizeBytes": 42586
+    },
+    {
+      "file": "skills/9router-stt/SKILL.md",
+      "lines": 80,
+      "sizeBytes": 3068
+    },
+    {
+      "file": "src/app/api/usage/stream/route.js",
+      "lines": 80,
+      "sizeBytes": 2940
+    },
+    {
+      "file": "tests/unit/caveman-prompts.test.js",
+      "lines": 80,
+      "sizeBytes": 2719
+    },
+    {
+      "file": "gitbook/components/DocsHeader.js",
+      "lines": 79,
+      "sizeBytes": 2994
+    },
+    {
+      "file": "public/providers/hermes.png",
+      "lines": 79,
+      "sizeBytes": 41605
+    },
+    {
+      "file": "src/shared/constants/skills.js",
+      "lines": 79,
+      "sizeBytes": 2455
+    },
+    {
+      "file": "tests/unit/combo-autoswitch.test.js",
+      "lines": 79,
+      "sizeBytes": 2927
+    },
+    {
+      "file": "open-sse/providers/registry/codebuddy-cn.js",
+      "lines": 78,
+      "sizeBytes": 2751
+    },
+    {
+      "file": "src/app/api/cli-tools/cowork-mcp-registry/route.js",
+      "lines": 78,
+      "sizeBytes": 2857
+    },
+    {
+      "file": "src/shared/constants/colors.js",
+      "lines": 78,
+      "sizeBytes": 2125
+    },
+    {
+      "file": "tests/translator/bugs-codexCli-responses.test.js",
+      "lines": 78,
+      "sizeBytes": 3374
+    },
+    {
+      "file": "tests/unit/image-fetch-hardening.test.js",
+      "lines": 78,
+      "sizeBytes": 2879
+    },
+    {
+      "file": "open-sse/providers/registry/minimax-cn.js",
+      "lines": 77,
+      "sizeBytes": 2575
+    },
+    {
+      "file": "open-sse/providers/schema.js",
+      "lines": 77,
+      "sizeBytes": 4401
+    },
+    {
+      "file": "open-sse/utils/reasoningContentInjector.js",
+      "lines": 77,
+      "sizeBytes": 2486
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/media-providers/[kind]/[id]/components/exampleShared.js",
+      "lines": 77,
+      "sizeBytes": 3669
+    },
+    {
+      "file": "tests/translator/bugs-gemini-cursor-commandcode.test.js",
+      "lines": 77,
+      "sizeBytes": 3130
+    },
+    {
+      "file": "tests/translator/format-roundtrip.test.js",
+      "lines": 77,
+      "sizeBytes": 3212
+    },
+    {
+      "file": "tests/unit/claude-cloaking.test.js",
+      "lines": 77,
+      "sizeBytes": 3199
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/usage/page.js",
+      "lines": 76,
+      "sizeBytes": 2325
+    },
+    {
+      "file": "src/lib/db/repos/apiKeysRepo.js",
+      "lines": 76,
+      "sizeBytes": 2291
+    },
+    {
+      "file": "src/shared/components/Loading.js",
+      "lines": 76,
+      "sizeBytes": 1776
+    },
+    {
+      "file": "open-sse/handlers/ttsCore.js",
+      "lines": 75,
+      "sizeBytes": 3084
+    },
+    {
+      "file": "src/sse/utils/logger.js",
+      "lines": 75,
+      "sizeBytes": 2143
+    },
+    {
+      "file": "tests/unit/antigravity-retry-hook.test.js",
+      "lines": 75,
+      "sizeBytes": 3153
+    },
+    {
+      "file": "open-sse/handlers/ttsProviders/openrouter.js",
+      "lines": 74,
+      "sizeBytes": 2445
+    },
+    {
+      "file": "skills/9router-chat/SKILL.md",
+      "lines": 74,
+      "sizeBytes": 2616
+    },
+    {
+      "file": "src/lib/db/repos/combosRepo.js",
+      "lines": 74,
+      "sizeBytes": 2191
+    },
+    {
+      "file": "tests/translator/bugs-claudeCode-context.test.js",
+      "lines": 74,
+      "sizeBytes": 3208
+    },
+    {
+      "file": "tests/unit/headroom.test.js",
+      "lines": 74,
+      "sizeBytes": 2834
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/antigravity.js",
+      "lines": 73,
+      "sizeBytes": 2538
+    },
+    {
+      "file": "src/app/api/tunnel/tailscale-install/route.js",
+      "lines": 73,
+      "sizeBytes": 2512
+    },
+    {
+      "file": "src/app/landing/components/Navigation.js",
+      "lines": 73,
+      "sizeBytes": 3938
+    },
+    {
+      "file": "src/shared/constants/coworkPlugins.js",
+      "lines": 73,
+      "sizeBytes": 2577
+    },
+    {
+      "file": "tests/translator/golden-url-header.test.js",
+      "lines": 73,
+      "sizeBytes": 3210
+    },
+    {
+      "file": "tests/unit/responses-abort-terminal.test.js",
+      "lines": 73,
+      "sizeBytes": 2475
+    },
+    {
+      "file": "open-sse/services/compact.js",
+      "lines": 72,
+      "sizeBytes": 2346
+    },
+    {
+      "file": "public/providers/opencode-go.png",
+      "lines": 72,
+      "sizeBytes": 29798
+    },
+    {
+      "file": "public/providers/opencode.png",
+      "lines": 72,
+      "sizeBytes": 29798
+    },
+    {
+      "file": "src/app/api/media-providers/tts/elevenlabs/voices/route.js",
+      "lines": 72,
+      "sizeBytes": 2705
+    },
+    {
+      "file": "tests/unit/opencode-go-models.test.js",
+      "lines": 72,
+      "sizeBytes": 2528
+    },
+    {
+      "file": "cli/scripts/buildMitm.js",
+      "lines": 71,
+      "sizeBytes": 2522
+    },
+    {
+      "file": "open-sse/services/usage/shared.js",
+      "lines": 71,
+      "sizeBytes": 2260
+    },
+    {
+      "file": "open-sse/utils/claudeHeaderCache.js",
+      "lines": 71,
+      "sizeBytes": 2192
+    },
+    {
+      "file": "public/providers/gemini-cli.png",
+      "lines": 71,
+      "sizeBytes": 20141
+    },
+    {
+      "file": "public/providers/together.png",
+      "lines": 71,
+      "sizeBytes": 25211
+    },
+    {
+      "file": "src/app/api/proxy-pools/[id]/test/route.js",
+      "lines": 71,
+      "sizeBytes": 2286
+    },
+    {
+      "file": "open-sse/translator/concerns/usage.js",
+      "lines": 70,
+      "sizeBytes": 3640
+    },
+    {
+      "file": "skills/9router-embeddings/SKILL.md",
+      "lines": 70,
+      "sizeBytes": 2490
+    },
+    {
+      "file": "src/shared/components/Toggle.js",
+      "lines": 70,
+      "sizeBytes": 1961
+    },
+    {
+      "file": "tests/unit/usage-concern.test.js",
+      "lines": 70,
+      "sizeBytes": 2768
+    },
+    {
+      "file": "public/providers/kimi-coding.png",
+      "lines": 69,
+      "sizeBytes": 32748
+    },
+    {
+      "file": "public/providers/kimi.png",
+      "lines": 69,
+      "sizeBytes": 32748
+    },
+    {
+      "file": "src/app/api/v1/audio/voices/route.js",
+      "lines": 69,
+      "sizeBytes": 2869
+    },
+    {
+      "file": "open-sse/providers/shared.js",
+      "lines": 68,
+      "sizeBytes": 2906
+    },
+    {
+      "file": "src/app/api/models/route.js",
+      "lines": 68,
+      "sizeBytes": 2307
+    },
+    {
+      "file": "src/app/api/oauth/kiro/api-key/route.js",
+      "lines": 68,
+      "sizeBytes": 2247
+    },
+    {
+      "file": "src/app/api/oauth/kiro/social-exchange/route.js",
+      "lines": 68,
+      "sizeBytes": 2118
+    },
+    {
+      "file": "src/shared/components/Select.js",
+      "lines": 68,
+      "sizeBytes": 2117
+    },
+    {
+      "file": "tests/translator/matrix.js",
+      "lines": 68,
+      "sizeBytes": 2429
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/CLIToolsPageClient.js",
+      "lines": 67,
+      "sizeBytes": 2265
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/ApiKeySelect.js",
+      "lines": 67,
+      "sizeBytes": 2137
+    },
+    {
+      "file": "src/app/api/oauth/kiro/import/route.js",
+      "lines": 67,
+      "sizeBytes": 2497
+    },
+    {
+      "file": "src/app/api/providers/[id]/test-models/route.js",
+      "lines": 67,
+      "sizeBytes": 2935
+    },
+    {
+      "file": "src/app/landing/components/HowItWorks.js",
+      "lines": 67,
+      "sizeBytes": 3407
+    },
+    {
+      "file": "src/shared/utils/machineId.js",
+      "lines": 67,
+      "sizeBytes": 2293
+    },
+    {
+      "file": "tests/__baseline__/verify-oauth-urls.mjs",
+      "lines": 67,
+      "sizeBytes": 2298
+    },
+    {
+      "file": "tests/unit/alicode-cache-control-2069.test.js",
+      "lines": 67,
+      "sizeBytes": 2454
+    },
+    {
+      "file": "open-sse/providers/registry/kimi-coding.js",
+      "lines": 66,
+      "sizeBytes": 1932
+    },
+    {
+      "file": "src/app/api/media-providers/tts/deepgram/voices/route.js",
+      "lines": 66,
+      "sizeBytes": 2567
+    },
+    {
+      "file": "src/shared/components/Input.js",
+      "lines": 66,
+      "sizeBytes": 1994
+    },
+    {
+      "file": "open-sse/shared/qoder/constants.js",
+      "lines": 65,
+      "sizeBytes": 2867
+    },
+    {
+      "file": "public/providers/hyperbolic.png",
+      "lines": 65,
+      "sizeBytes": 15870
+    },
+    {
+      "file": "public/providers/openrouter.png",
+      "lines": 65,
+      "sizeBytes": 15870
+    },
+    {
+      "file": "tests/translator/golden-request.test.js",
+      "lines": 65,
+      "sizeBytes": 2939
+    },
+    {
+      "file": "open-sse/providers/registry/xiaomi-tokenplan.js",
+      "lines": 64,
+      "sizeBytes": 2250
+    },
+    {
+      "file": "open-sse/services/clinepassModels.js",
+      "lines": 64,
+      "sizeBytes": 1966
+    },
+    {
+      "file": "open-sse/translator/concerns/finishReason.js",
+      "lines": 64,
+      "sizeBytes": 2420
+    },
+    {
+      "file": "open-sse/utils/clientDetector.js",
+      "lines": 64,
+      "sizeBytes": 2312
+    },
+    {
+      "file": "public/providers/openclaw.png",
+      "lines": 64,
+      "sizeBytes": 30442
+    },
+    {
+      "file": "public/providers/qwen.png",
+      "lines": 64,
+      "sizeBytes": 25882
+    },
+    {
+      "file": "src/lib/db/adapters/bunSqliteAdapter.js",
+      "lines": 64,
+      "sizeBytes": 2092
+    },
+    {
+      "file": "src/lib/oauth/utils/banner.js",
+      "lines": 64,
+      "sizeBytes": 1518
+    },
+    {
+      "file": "tests/unit/kiro-profile-arn.test.js",
+      "lines": 64,
+      "sizeBytes": 2441
+    },
+    {
+      "file": "tests/unit/xai-tokenRefresh.test.js",
+      "lines": 64,
+      "sizeBytes": 2260
+    },
+    {
+      "file": "open-sse/config/googleTtsLanguages.js",
+      "lines": 63,
+      "sizeBytes": 3884
+    },
+    {
+      "file": "public/providers/huggingface.png",
+      "lines": 63,
+      "sizeBytes": 27753
+    },
+    {
+      "file": "src/app/api/oauth/gitlab/pat/route.js",
+      "lines": 63,
+      "sizeBytes": 1893
+    },
+    {
+      "file": "src/app/api/v1beta/models/route.js",
+      "lines": 63,
+      "sizeBytes": 1775
+    },
+    {
+      "file": "src/lib/db/repos/aliasRepo.js",
+      "lines": 63,
+      "sizeBytes": 1992
+    },
+    {
+      "file": "src/lib/oauth/constants/xai.js",
+      "lines": 63,
+      "sizeBytes": 2498
+    },
+    {
+      "file": "tests/unit/session-manager.test.js",
+      "lines": 63,
+      "sizeBytes": 2977
+    },
+    {
+      "file": "gitbook/components/DocsToc.js",
+      "lines": 62,
+      "sizeBytes": 1900
+    },
+    {
+      "file": "open-sse/translator/concerns/paramSupport.js",
+      "lines": 62,
+      "sizeBytes": 2793
+    },
+    {
+      "file": "skills/9router/SKILL.md",
+      "lines": 62,
+      "sizeBytes": 3053
+    },
+    {
+      "file": "src/app/api/media-providers/tts/inworld/voices/route.js",
+      "lines": 62,
+      "sizeBytes": 2272
+    },
+    {
+      "file": "src/app/landing/components/Footer.js",
+      "lines": 62,
+      "sizeBytes": 3689
+    },
+    {
+      "file": "tests/unit/openai-to-claude-response-tools.test.js",
+      "lines": 62,
+      "sizeBytes": 2077
+    },
+    {
+      "file": ".github/workflows/docker-publish.yml",
+      "lines": 61,
+      "sizeBytes": 1626
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/nanobanana.js",
+      "lines": 61,
+      "sizeBytes": 2588
+    },
+    {
+      "file": "open-sse/providers/registry/openrouter.js",
+      "lines": 61,
+      "sizeBytes": 2955
+    },
+    {
+      "file": "open-sse/rtk/constants.js",
+      "lines": 61,
+      "sizeBytes": 2642
+    },
+    {
+      "file": "src/lib/auth/loginLimiter.js",
+      "lines": 61,
+      "sizeBytes": 2118
+    },
+    {
+      "file": "src/shared/hooks/useTheme.js",
+      "lines": 61,
+      "sizeBytes": 1769
+    },
+    {
+      "file": "tests/unit/mimo-free.live.test.js",
+      "lines": 61,
+      "sizeBytes": 2105
+    },
+    {
+      "file": "open-sse/handlers/ttsProviders/minimax.js",
+      "lines": 60,
+      "sizeBytes": 1912
+    },
+    {
+      "file": "package.json",
+      "lines": 60,
+      "sizeBytes": 1862
+    },
+    {
+      "file": "tests/unit/db-driver-chain.test.js",
+      "lines": 60,
+      "sizeBytes": 2215
+    },
+    {
+      "file": "open-sse/providers/registry/cursor.js",
+      "lines": 59,
+      "sizeBytes": 2123
+    },
+    {
+      "file": "open-sse/providers/registry/gemini-cli.js",
+      "lines": 59,
+      "sizeBytes": 2023
+    },
+    {
+      "file": "open-sse/providers/registry/glm.js",
+      "lines": 59,
+      "sizeBytes": 1582
+    },
+    {
+      "file": "open-sse/services/usage.js",
+      "lines": 59,
+      "sizeBytes": 2801
+    },
+    {
+      "file": "src/app/api/keys/[id]/route.js",
+      "lines": 59,
+      "sizeBytes": 1851
+    },
+    {
+      "file": "tests/translator/real/nvidia-thinking.e2e.test.js",
+      "lines": 59,
+      "sizeBytes": 2220
+    },
+    {
+      "file": "tests/unit/combo-routing.test.js",
+      "lines": 59,
+      "sizeBytes": 2118
+    },
+    {
+      "file": "tests/unit/multimodal-drop-lock.test.js",
+      "lines": 59,
+      "sizeBytes": 2637
+    },
+    {
+      "file": "tests/unit/prefetch-images.test.js",
+      "lines": 59,
+      "sizeBytes": 2776
+    },
+    {
+      "file": "open-sse/executors/azure.js",
+      "lines": 58,
+      "sizeBytes": 1545
+    },
+    {
+      "file": "open-sse/providers/registry/clinepass.js",
+      "lines": 58,
+      "sizeBytes": 1857
+    },
+    {
+      "file": "src/app/api/usage/request-details/route.js",
+      "lines": 58,
+      "sizeBytes": 1780
+    },
+    {
+      "file": "src/app/landing/components/AnimatedBackground.js",
+      "lines": 58,
+      "sizeBytes": 1959
+    },
+    {
+      "file": "tests/unit/file-block-routing.test.js",
+      "lines": 58,
+      "sizeBytes": 2423
+    },
+    {
+      "file": "open-sse/providers/registry/kimi.js",
+      "lines": 57,
+      "sizeBytes": 1665
+    },
+    {
+      "file": "open-sse/providers/registry/venice.js",
+      "lines": 57,
+      "sizeBytes": 2371
+    },
+    {
+      "file": "src/lib/db/repos/disabledModelsRepo.js",
+      "lines": 57,
+      "sizeBytes": 2265
+    },
+    {
+      "file": "src/shared/components/Button.js",
+      "lines": 57,
+      "sizeBytes": 1911
+    },
+    {
+      "file": "src/shared/utils/ssrfGuard.js",
+      "lines": 57,
+      "sizeBytes": 2091
+    },
+    {
+      "file": "tests/unit/github-responses-routing.test.js",
+      "lines": 57,
+      "sizeBytes": 2393
+    },
+    {
+      "file": "open-sse/providers/registry/cloudflare-ai.js",
+      "lines": 56,
+      "sizeBytes": 3194
+    },
+    {
+      "file": "open-sse/shared/qoder/encoding.js",
+      "lines": 56,
+      "sizeBytes": 1870
+    },
+    {
+      "file": "src/app/api/providers/kilo/free-models/route.js",
+      "lines": 56,
+      "sizeBytes": 1528
+    },
+    {
+      "file": "src/app/api/v1/models/[kind]/route.js",
+      "lines": 56,
+      "sizeBytes": 1610
+    },
+    {
+      "file": "src/lib/db/adapters/betterSqliteAdapter.js",
+      "lines": 56,
+      "sizeBytes": 1880
+    },
+    {
+      "file": "src/store/providerStore.js",
+      "lines": 56,
+      "sizeBytes": 1675
+    },
+    {
+      "file": "tests/__baseline__/oauth-urls-baseline.json",
+      "lines": 56,
+      "sizeBytes": 2028
+    },
+    {
+      "file": "tests/unit/param-support.test.js",
+      "lines": 56,
+      "sizeBytes": 1655
+    },
+    {
+      "file": "tests/unit/translator-custom-prefix.test.js",
+      "lines": 56,
+      "sizeBytes": 1887
+    },
+    {
+      "file": "open-sse/handlers/embeddingProviders/gemini.js",
+      "lines": 55,
+      "sizeBytes": 1961
+    },
+    {
+      "file": "open-sse/handlers/ttsProviders/googleTts.js",
+      "lines": 55,
+      "sizeBytes": 2261
+    },
+    {
+      "file": "open-sse/providers/registry/qoder.js",
+      "lines": 55,
+      "sizeBytes": 1821
+    },
+    {
+      "file": "src/app/api/tunnel/tailscale-check/route.js",
+      "lines": 55,
+      "sizeBytes": 2282
+    },
+    {
+      "file": "src/shared/components/Badge.js",
+      "lines": 55,
+      "sizeBytes": 1474
+    },
+    {
+      "file": "src/shared/utils/providerCustomModels.js",
+      "lines": 55,
+      "sizeBytes": 1495
+    },
+    {
+      "file": "src/store/themeStore.js",
+      "lines": 55,
+      "sizeBytes": 1245
+    },
+    {
+      "file": "tests/__baseline__/verify-alias.mjs",
+      "lines": 55,
+      "sizeBytes": 2926
+    },
+    {
+      "file": "Dockerfile",
+      "lines": 54,
+      "sizeBytes": 1801
+    },
+    {
+      "file": "open-sse/translator/concerns/thinking.js",
+      "lines": 54,
+      "sizeBytes": 1918
+    },
+    {
+      "file": "src/app/api/cli-tools/antigravity-mitm/alias/route.js",
+      "lines": 54,
+      "sizeBytes": 1841
+    },
+    {
+      "file": "src/app/api/models/alias/route.js",
+      "lines": 54,
+      "sizeBytes": 1642
+    },
+    {
+      "file": "src/lib/tunnel/index.js",
+      "lines": 54,
+      "sizeBytes": 1379
+    },
+    {
+      "file": "tests/translator/coverage-all-models.test.js",
+      "lines": 54,
+      "sizeBytes": 2251
+    },
+    {
+      "file": "open-sse/handlers/ttsProviders/index.js",
+      "lines": 53,
+      "sizeBytes": 2109
+    },
+    {
+      "file": "open-sse/providers/registry/iflow.js",
+      "lines": 53,
+      "sizeBytes": 1678
+    },
+    {
+      "file": "open-sse/rtk/filters/searchList.js",
+      "lines": 53,
+      "sizeBytes": 1821
+    },
+    {
+      "file": "open-sse/rtk/ponytailPrompt.js",
+      "lines": 53,
+      "sizeBytes": 2814
+    },
+    {
+      "file": "src/app/api/auth/oidc/start/route.js",
+      "lines": 53,
+      "sizeBytes": 1745
+    },
+    {
+      "file": "tests/unit/provider-models-minimax-m3.test.js",
+      "lines": 53,
+      "sizeBytes": 1993
+    },
+    {
+      "file": "open-sse/providers/index.js",
+      "lines": 52,
+      "sizeBytes": 2273
+    },
+    {
+      "file": "open-sse/providers/registry/cline.js",
+      "lines": 52,
+      "sizeBytes": 1629
+    },
+    {
+      "file": "open-sse/providers/registry/deepseek.js",
+      "lines": 52,
+      "sizeBytes": 1602
+    },
+    {
+      "file": "open-sse/providers/registry/kilocode.js",
+      "lines": 52,
+      "sizeBytes": 1820
+    },
+    {
+      "file": "src/app/api/settings/database/route.js",
+      "lines": 52,
+      "sizeBytes": 1882
+    },
+    {
+      "file": "src/app/layout.js",
+      "lines": 52,
+      "sizeBytes": 1779
+    },
+    {
+      "file": "src/shared/components/ProviderIcon.js",
+      "lines": 52,
+      "sizeBytes": 1070
+    },
+    {
+      "file": "src/store/settingsStore.js",
+      "lines": 52,
+      "sizeBytes": 1543
+    },
+    {
+      "file": "tests/README.md",
+      "lines": 52,
+      "sizeBytes": 2074
+    },
+    {
+      "file": ".github/workflows/gitbook-pages.yml",
+      "lines": 51,
+      "sizeBytes": 1280
+    },
+    {
+      "file": "open-sse/providers/registry/exa.js",
+      "lines": 51,
+      "sizeBytes": 1036
+    },
+    {
+      "file": "open-sse/providers/registry/tavily.js",
+      "lines": 51,
+      "sizeBytes": 1036
+    },
+    {
+      "file": "open-sse/utils/responsesStreamHelpers.js",
+      "lines": 51,
+      "sizeBytes": 1731
+    },
+    {
+      "file": "public/providers/claude.png",
+      "lines": 51,
+      "sizeBytes": 20825
+    },
+    {
+      "file": "src/app/api/models/disabled/route.js",
+      "lines": 51,
+      "sizeBytes": 2001
+    },
+    {
+      "file": "src/mitm/antigravityIdeVersion.js",
+      "lines": 51,
+      "sizeBytes": 2227
+    },
+    {
+      "file": "tests/unit/antigravity-oauth-client.test.js",
+      "lines": 51,
+      "sizeBytes": 2749
+    },
+    {
+      "file": "tests/unit/model-name-regex.test.js",
+      "lines": 51,
+      "sizeBytes": 2383
+    },
+    {
+      "file": "open-sse/executors/opencode-go.js",
+      "lines": 50,
+      "sizeBytes": 1529
+    },
+    {
+      "file": "open-sse/providers/registry/kimchi.js",
+      "lines": 50,
+      "sizeBytes": 1430
+    },
+    {
+      "file": "open-sse/utils/toolDeduper.js",
+      "lines": 50,
+      "sizeBytes": 1698
+    },
+    {
+      "file": "public/providers/oai-cc.png",
+      "lines": 50,
+      "sizeBytes": 17923
+    },
+    {
+      "file": "cli/package.json",
+      "lines": 49,
+      "sizeBytes": 1782
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/runwayml.js",
+      "lines": 49,
+      "sizeBytes": 2071
+    },
+    {
+      "file": "open-sse/handlers/ttsProviders/elevenlabs.js",
+      "lines": 49,
+      "sizeBytes": 1989
+    },
+    {
+      "file": "open-sse/rtk/filters/find.js",
+      "lines": 49,
+      "sizeBytes": 1551
+    },
+    {
+      "file": "open-sse/rtk/filters/grep.js",
+      "lines": 49,
+      "sizeBytes": 1613
+    },
+    {
+      "file": "src/app/api/combos/route.js",
+      "lines": 49,
+      "sizeBytes": 1581
+    },
+    {
+      "file": "src/app/api/models/custom/route.js",
+      "lines": 49,
+      "sizeBytes": 1896
+    },
+    {
+      "file": "src/lib/oauth/utils/ui.js",
+      "lines": 49,
+      "sizeBytes": 1079
+    },
+    {
+      "file": "src/shared/components/SegmentedControl.js",
+      "lines": 49,
+      "sizeBytes": 1132
+    },
+    {
+      "file": "tests/unit/executor-const-guard.test.js",
+      "lines": 49,
+      "sizeBytes": 1756
+    },
+    {
+      "file": "public/providers/nvidia.png",
+      "lines": 48,
+      "sizeBytes": 18496
+    },
+    {
+      "file": "public/providers/xiaomi-mimo.png",
+      "lines": 48,
+      "sizeBytes": 11057
+    },
+    {
+      "file": "public/providers/xiaomi-tokenplan.png",
+      "lines": 48,
+      "sizeBytes": 11057
+    },
+    {
+      "file": "src/app/landing/components/HeroSection.js",
+      "lines": 48,
+      "sizeBytes": 2275
+    },
+    {
+      "file": "src/shared/constants/models.js",
+      "lines": 48,
+      "sizeBytes": 1780
+    },
+    {
+      "file": "tests/unit/translator-helpers-edge.test.js",
+      "lines": 48,
+      "sizeBytes": 2043
+    },
+    {
+      "file": "open-sse/providers/registry/xiaomi-mimo.js",
+      "lines": 47,
+      "sizeBytes": 1319
+    },
+    {
+      "file": "open-sse/providers/thinkingLevels.js",
+      "lines": 47,
+      "sizeBytes": 2268
+    },
+    {
+      "file": "public/providers/antigravity.png",
+      "lines": 47,
+      "sizeBytes": 20702
+    },
+    {
+      "file": "public/providers/iflow.png",
+      "lines": 47,
+      "sizeBytes": 17949
+    },
+    {
+      "file": "src/app/api/cli-tools/all-statuses/route.js",
+      "lines": 47,
+      "sizeBytes": 1585
+    },
+    {
+      "file": "src/lib/mitmAliasCache.js",
+      "lines": 47,
+      "sizeBytes": 1604
+    },
+    {
+      "file": "src/shared/components/HeaderLanguage.js",
+      "lines": 47,
+      "sizeBytes": 1370
+    },
+    {
+      "file": "tests/__baseline__/verify-providers.mjs",
+      "lines": 47,
+      "sizeBytes": 2388
+    },
+    {
+      "file": "open-sse/providers/registry/aws-polly.js",
+      "lines": 46,
+      "sizeBytes": 1029
+    },
+    {
+      "file": "public/providers/oai-r.png",
+      "lines": 46,
+      "sizeBytes": 15856
+    },
+    {
+      "file": "src/app/api/auth/status/route.js",
+      "lines": 46,
+      "sizeBytes": 1658
+    },
+    {
+      "file": "src/app/api/translator/load/route.js",
+      "lines": 46,
+      "sizeBytes": 1404
+    },
+    {
+      "file": "src/app/api/version/route.js",
+      "lines": 46,
+      "sizeBytes": 1313
+    },
+    {
+      "file": "src/lib/providerNormalization.js",
+      "lines": 46,
+      "sizeBytes": 1333
+    },
+    {
+      "file": "src/store/notificationStore.js",
+      "lines": 46,
+      "sizeBytes": 1421
+    },
+    {
+      "file": "gitbook/.gitignore",
+      "lines": 45,
+      "sizeBytes": 421
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/blackForestLabs.js",
+      "lines": 45,
+      "sizeBytes": 1775
+    },
+    {
+      "file": "open-sse/rtk/filters/dedupLog.js",
+      "lines": 45,
+      "sizeBytes": 1062
+    },
+    {
+      "file": "src/app/api/translator/save/route.js",
+      "lines": 45,
+      "sizeBytes": 1342
+    },
+    {
+      "file": "src/shared/components/ManualConfigModal.js",
+      "lines": 45,
+      "sizeBytes": 1716
+    },
+    {
+      "file": "src/shared/components/index.js",
+      "lines": 45,
+      "sizeBytes": 2366
+    },
+    {
+      "file": "src/shared/hooks/useModelCaps.js",
+      "lines": 45,
+      "sizeBytes": 1591
+    },
+    {
+      "file": "tests/translator/bugs-kiro.test.js",
+      "lines": 45,
+      "sizeBytes": 1863
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/index.js",
+      "lines": 44,
+      "sizeBytes": 1286
+    },
+    {
+      "file": "open-sse/providers/registry/commandcode.js",
+      "lines": 44,
+      "sizeBytes": 1427
+    },
+    {
+      "file": "open-sse/providers/registry/nvidia.js",
+      "lines": 44,
+      "sizeBytes": 1722
+    },
+    {
+      "file": "open-sse/providers/registry/xai.js",
+      "lines": 44,
+      "sizeBytes": 1378
+    },
+    {
+      "file": "open-sse/translator/schema/blocks.js",
+      "lines": 44,
+      "sizeBytes": 1321
+    },
+    {
+      "file": "src/app/api/oauth/kiro/social-authorize/route.js",
+      "lines": 44,
+      "sizeBytes": 1286
+    },
+    {
+      "file": "src/shared/hooks/useCopyToClipboard.js",
+      "lines": 44,
+      "sizeBytes": 1263
+    },
+    {
+      "file": "cli/LICENSE",
+      "lines": 43,
+      "sizeBytes": 1140
+    },
+    {
+      "file": "gitbook/lib/content.js",
+      "lines": 43,
+      "sizeBytes": 1516
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/falAi.js",
+      "lines": 43,
+      "sizeBytes": 1719
+    },
+    {
+      "file": "open-sse/providers/registry/jina-ai.js",
+      "lines": 43,
+      "sizeBytes": 978
+    },
+    {
+      "file": "open-sse/translator/request/openai-to-vertex.js",
+      "lines": 43,
+      "sizeBytes": 1487
+    },
+    {
+      "file": "public/providers/searxng.png",
+      "lines": 43,
+      "sizeBytes": 12775
+    },
+    {
+      "file": "skills/README.md",
+      "lines": 43,
+      "sizeBytes": 2072
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/providers/[id]/CooldownTimer.js",
+      "lines": 43,
+      "sizeBytes": 1132
+    },
+    {
+      "file": "src/app/api/keys/route.js",
+      "lines": 43,
+      "sizeBytes": 1280
+    },
+    {
+      "file": "src/app/api/usage/providers/route.js",
+      "lines": 43,
+      "sizeBytes": 1374
+    },
+    {
+      "file": "src/shared/components/ThemeToggle.js",
+      "lines": 43,
+      "sizeBytes": 1284
+    },
+    {
+      "file": "open-sse/providers/registry/blackbox.js",
+      "lines": 42,
+      "sizeBytes": 1793
+    },
+    {
+      "file": "open-sse/providers/registry/opencode-go.js",
+      "lines": 42,
+      "sizeBytes": 1464
+    },
+    {
+      "file": "open-sse/providers/registry/vercel-ai-gateway.js",
+      "lines": 42,
+      "sizeBytes": 1383
+    },
+    {
+      "file": "open-sse/utils/claudeSignature.js",
+      "lines": 42,
+      "sizeBytes": 1516
+    },
+    {
+      "file": "public/providers/exa.png",
+      "lines": 42,
+      "sizeBytes": 19530
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/usage/components/OverviewCards.js",
+      "lines": 42,
+      "sizeBytes": 2023
+    },
+    {
+      "file": "src/lib/tunnel/shared/state.js",
+      "lines": 42,
+      "sizeBytes": 1126
+    },
+    {
+      "file": "tests/unit/venice-provider.test.js",
+      "lines": 42,
+      "sizeBytes": 1610
+    },
+    {
+      "file": "open-sse/executors/codebuddy-cn.js",
+      "lines": 41,
+      "sizeBytes": 1807
+    },
+    {
+      "file": "open-sse/providers/models/schema.js",
+      "lines": 41,
+      "sizeBytes": 1619
+    },
+    {
+      "file": "open-sse/rtk/registry.js",
+      "lines": 41,
+      "sizeBytes": 1229
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/MitmLinkCard.js",
+      "lines": 41,
+      "sizeBytes": 1604
+    },
+    {
+      "file": "src/app/api/oauth/kiro/import-cli-proxy/route.js",
+      "lines": 41,
+      "sizeBytes": 1261
+    },
+    {
+      "file": "src/shared/utils/index.js",
+      "lines": 41,
+      "sizeBytes": 1123
+    },
+    {
+      "file": "tests/unit/antigravity-mitm.test.js",
+      "lines": 41,
+      "sizeBytes": 1869
+    },
+    {
+      "file": "tests/unit/kiro-model-slots.test.js",
+      "lines": 41,
+      "sizeBytes": 1616
+    },
+    {
+      "file": "open-sse/AGENTS.md",
+      "lines": 40,
+      "sizeBytes": 4274
+    },
+    {
+      "file": "open-sse/handlers/ttsProviders/_base.js",
+      "lines": 40,
+      "sizeBytes": 1998
+    },
+    {
+      "file": "open-sse/providers/registry/grok-web.js",
+      "lines": 40,
+      "sizeBytes": 1251
+    },
+    {
+      "file": "open-sse/providers/registry/siliconflow.js",
+      "lines": 40,
+      "sizeBytes": 1569
+    },
+    {
+      "file": "public/providers/kiro.png",
+      "lines": 40,
+      "sizeBytes": 15406
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/ToolSummaryCard.js",
+      "lines": 40,
+      "sizeBytes": 2011
+    },
+    {
+      "file": "src/lib/db/helpers/kvStore.js",
+      "lines": 40,
+      "sizeBytes": 1504
+    },
+    {
+      "file": "src/lib/oauth/utils/pkce.js",
+      "lines": 40,
+      "sizeBytes": 946
+    },
+    {
+      "file": "tests/unit/usage-dispatch.test.js",
+      "lines": 40,
+      "sizeBytes": 1614
+    },
+    {
+      "file": ".env.example",
+      "lines": 39,
+      "sizeBytes": 1242
+    },
+    {
+      "file": "open-sse/providers/registry/assemblyai.js",
+      "lines": 39,
+      "sizeBytes": 1084
+    },
+    {
+      "file": "public/providers/siliconflow.png",
+      "lines": 39,
+      "sizeBytes": 13294
+    },
+    {
+      "file": "src/models/index.js",
+      "lines": 39,
+      "sizeBytes": 820
+    },
+    {
+      "file": "open-sse/providers/registry/groq.js",
+      "lines": 38,
+      "sizeBytes": 1397
+    },
+    {
+      "file": "open-sse/shared/clineAuth.js",
+      "lines": 38,
+      "sizeBytes": 1134
+    },
+    {
+      "file": "public/providers/codex.png",
+      "lines": 38,
+      "sizeBytes": 9884
+    },
+    {
+      "file": "src/app/api/v1/api/chat/route.js",
+      "lines": 38,
+      "sizeBytes": 949
+    },
+    {
+      "file": "src/app/api/v1/responses/compact/route.js",
+      "lines": 38,
+      "sizeBytes": 985
+    },
+    {
+      "file": "src/lib/dataDir.js",
+      "lines": 38,
+      "sizeBytes": 1160
+    },
+    {
+      "file": "src/shared/constants/locales.js",
+      "lines": 38,
+      "sizeBytes": 828
+    },
+    {
+      "file": "tests/unit/codebuddy-reasoning-optin.test.js",
+      "lines": 38,
+      "sizeBytes": 1531
+    },
+    {
+      "file": "gitbook/app/[lang]/[...slug]/page.js",
+      "lines": 37,
+      "sizeBytes": 1113
+    },
+    {
+      "file": "open-sse/providers/registry/cartesia.js",
+      "lines": 37,
+      "sizeBytes": 695
+    },
+    {
+      "file": "open-sse/providers/registry/inworld.js",
+      "lines": 37,
+      "sizeBytes": 921
+    },
+    {
+      "file": "open-sse/providers/registry/ollama.js",
+      "lines": 37,
+      "sizeBytes": 1014
+    },
+    {
+      "file": "open-sse/providers/registry/playht.js",
+      "lines": 37,
+      "sizeBytes": 703
+    },
+    {
+      "file": "open-sse/translator/formats.js",
+      "lines": 37,
+      "sizeBytes": 1044
+    },
+    {
+      "file": "public/providers/azure.png",
+      "lines": 37,
+      "sizeBytes": 12920
+    },
+    {
+      "file": "public/providers/droid.png",
+      "lines": 37,
+      "sizeBytes": 12241
+    },
+    {
+      "file": "public/providers/serper.png",
+      "lines": 37,
+      "sizeBytes": 12991
+    },
+    {
+      "file": "src/app/api/v1/messages/route.js",
+      "lines": 37,
+      "sizeBytes": 790
+    },
+    {
+      "file": "tests/unit/headroom-detect.test.js",
+      "lines": 37,
+      "sizeBytes": 1287
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/stabilityAi.js",
+      "lines": 36,
+      "sizeBytes": 1274
+    },
+    {
+      "file": "open-sse/providers/registry/brave-search.js",
+      "lines": 36,
+      "sizeBytes": 780
+    },
+    {
+      "file": "open-sse/providers/registry/byteplus.js",
+      "lines": 36,
+      "sizeBytes": 1146
+    },
+    {
+      "file": "open-sse/providers/registry/elevenlabs.js",
+      "lines": 36,
+      "sizeBytes": 759
+    },
+    {
+      "file": "open-sse/providers/registry/glm-cn.js",
+      "lines": 36,
+      "sizeBytes": 881
+    },
+    {
+      "file": "open-sse/providers/registry/google-pse.js",
+      "lines": 36,
+      "sizeBytes": 788
+    },
+    {
+      "file": "open-sse/providers/registry/hyperbolic.js",
+      "lines": 36,
+      "sizeBytes": 1099
+    },
+    {
+      "file": "open-sse/providers/registry/nanobanana.js",
+      "lines": 36,
+      "sizeBytes": 1088
+    },
+    {
+      "file": "open-sse/providers/registry/perplexity.js",
+      "lines": 36,
+      "sizeBytes": 872
+    },
+    {
+      "file": "open-sse/providers/registry/searchapi.js",
+      "lines": 36,
+      "sizeBytes": 743
+    },
+    {
+      "file": "open-sse/providers/registry/serper.js",
+      "lines": 36,
+      "sizeBytes": 711
+    },
+    {
+      "file": "open-sse/providers/registry/volcengine-ark.js",
+      "lines": 36,
+      "sizeBytes": 1094
+    },
+    {
+      "file": "open-sse/providers/registry/youcom.js",
+      "lines": 36,
+      "sizeBytes": 710
+    },
+    {
+      "file": "public/providers/searchapi.png",
+      "lines": 36,
+      "sizeBytes": 13229
+    },
+    {
+      "file": "src/app/api/mcp/[plugin]/sse/route.js",
+      "lines": 36,
+      "sizeBytes": 1069
+    },
+    {
+      "file": "src/app/api/v1/chat/completions/route.js",
+      "lines": 36,
+      "sizeBytes": 751
+    },
+    {
+      "file": "src/lib/db/backup.js",
+      "lines": 36,
+      "sizeBytes": 1220
+    },
+    {
+      "file": "src/mitm/handlers/copilot.js",
+      "lines": 36,
+      "sizeBytes": 1188
+    },
+    {
+      "file": "tests/unit/mitm-root-ca.test.js",
+      "lines": 36,
+      "sizeBytes": 1213
+    },
+    {
+      "file": "open-sse/providers/registry/fal-ai.js",
+      "lines": 35,
+      "sizeBytes": 1220
+    },
+    {
+      "file": "open-sse/providers/registry/firecrawl.js",
+      "lines": 35,
+      "sizeBytes": 721
+    },
+    {
+      "file": "open-sse/providers/registry/huggingface.js",
+      "lines": 35,
+      "sizeBytes": 1030
+    },
+    {
+      "file": "open-sse/providers/registry/jina-reader.js",
+      "lines": 35,
+      "sizeBytes": 686
+    },
+    {
+      "file": "open-sse/providers/registry/linkup.js",
+      "lines": 35,
+      "sizeBytes": 699
+    },
+    {
+      "file": "open-sse/translator/formats/maxTokens.js",
+      "lines": 35,
+      "sizeBytes": 1416
+    },
+    {
+      "file": "public/providers/cursor.png",
+      "lines": 35,
+      "sizeBytes": 13446
+    },
+    {
+      "file": "public/providers/deepseek-tui.png",
+      "lines": 35,
+      "sizeBytes": 14942
+    },
+    {
+      "file": "tests/unit/capabilities-opus-context.test.js",
+      "lines": 35,
+      "sizeBytes": 1175
+    },
+    {
+      "file": "tests/unit/provider-display-split.test.js",
+      "lines": 35,
+      "sizeBytes": 1479
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/openai.js",
+      "lines": 34,
+      "sizeBytes": 1352
+    },
+    {
+      "file": "open-sse/handlers/ttsProviders/openai.js",
+      "lines": 34,
+      "sizeBytes": 1292
+    },
+    {
+      "file": "open-sse/providers/models/namePatterns.js",
+      "lines": 34,
+      "sizeBytes": 1371
+    },
+    {
+      "file": "open-sse/providers/registry/deepgram.js",
+      "lines": 34,
+      "sizeBytes": 1058
+    },
+    {
+      "file": "open-sse/providers/registry/perplexity-web.js",
+      "lines": 34,
+      "sizeBytes": 1066
+    },
+    {
+      "file": "open-sse/providers/registry/qwen.js",
+      "lines": 34,
+      "sizeBytes": 954
+    },
+    {
+      "file": "open-sse/providers/registry/searxng.js",
+      "lines": 34,
+      "sizeBytes": 665
+    },
+    {
+      "file": "src/mitm/handlers/antigravity.js",
+      "lines": 34,
+      "sizeBytes": 1563
+    },
+    {
+      "file": ".dockerignore",
+      "lines": 33,
+      "sizeBytes": 406
+    },
+    {
+      "file": "cli/src/cli/utils/endpoint.js",
+      "lines": 33,
+      "sizeBytes": 1043
+    },
+    {
+      "file": "custom-server.js",
+      "lines": 33,
+      "sizeBytes": 1537
+    },
+    {
+      "file": "open-sse/executors/opencode.js",
+      "lines": 33,
+      "sizeBytes": 908
+    },
+    {
+      "file": "open-sse/providers/registry/anthropic.js",
+      "lines": 33,
+      "sizeBytes": 910
+    },
+    {
+      "file": "open-sse/providers/registry/black-forest-labs.js",
+      "lines": 33,
+      "sizeBytes": 1129
+    },
+    {
+      "file": "open-sse/providers/registry/gitlab.js",
+      "lines": 33,
+      "sizeBytes": 726
+    },
+    {
+      "file": "open-sse/providers/registry/vertex.js",
+      "lines": 33,
+      "sizeBytes": 986
+    },
+    {
+      "file": "open-sse/rtk/filters/tree.js",
+      "lines": 33,
+      "sizeBytes": 1057
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/endpoint/endpointConstants.js",
+      "lines": 33,
+      "sizeBytes": 1609
+    },
+    {
+      "file": "src/app/api/providers/suggested-models/route.js",
+      "lines": 33,
+      "sizeBytes": 925
+    },
+    {
+      "file": "src/mitm/cert/generate.js",
+      "lines": 33,
+      "sizeBytes": 859
+    },
+    {
+      "file": "src/mitm/paths.js",
+      "lines": 33,
+      "sizeBytes": 888
+    },
+    {
+      "file": ".npmignore",
+      "lines": 32,
+      "sizeBytes": 399
+    },
+    {
+      "file": "open-sse/handlers/embeddingProviders/openai.js",
+      "lines": 32,
+      "sizeBytes": 1229
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/_base.js",
+      "lines": 32,
+      "sizeBytes": 913
+    },
+    {
+      "file": "open-sse/providers/registry/alicode.js",
+      "lines": 32,
+      "sizeBytes": 927
+    },
+    {
+      "file": "open-sse/providers/registry/cerebras.js",
+      "lines": 32,
+      "sizeBytes": 885
+    },
+    {
+      "file": "open-sse/providers/registry/mistral.js",
+      "lines": 32,
+      "sizeBytes": 949
+    },
+    {
+      "file": "open-sse/providers/registry/stability-ai.js",
+      "lines": 32,
+      "sizeBytes": 1089
+    },
+    {
+      "file": "open-sse/providers/registry/together.js",
+      "lines": 32,
+      "sizeBytes": 1123
+    },
+    {
+      "file": "open-sse/services/tokenRefresh/dedup.js",
+      "lines": 32,
+      "sizeBytes": 969
+    },
+    {
+      "file": "src/app/api/headroom/start/route.js",
+      "lines": 32,
+      "sizeBytes": 1200
+    },
+    {
+      "file": "cli/src/cli/utils/clipboard.js",
+      "lines": 31,
+      "sizeBytes": 768
+    },
+    {
+      "file": "docker-compose.yml",
+      "lines": 31,
+      "sizeBytes": 616
+    },
+    {
+      "file": "open-sse/providers/registry/alicode-intl.js",
+      "lines": 31,
+      "sizeBytes": 911
+    },
+    {
+      "file": "open-sse/providers/registry/coqui.js",
+      "lines": 31,
+      "sizeBytes": 614
+    },
+    {
+      "file": "open-sse/providers/registry/runwayml.js",
+      "lines": 31,
+      "sizeBytes": 860
+    },
+    {
+      "file": "open-sse/providers/registry/tortoise.js",
+      "lines": 31,
+      "sizeBytes": 596
+    },
+    {
+      "file": "open-sse/providers/registry/voyage-ai.js",
+      "lines": 31,
+      "sizeBytes": 1054
+    },
+    {
+      "file": "open-sse/translator/response/cursor-to-openai.js",
+      "lines": 31,
+      "sizeBytes": 980
+    },
+    {
+      "file": "public/providers/brave-search.png",
+      "lines": 31,
+      "sizeBytes": 17874
+    },
+    {
+      "file": "public/providers/cerebras.png",
+      "lines": 31,
+      "sizeBytes": 2757
+    },
+    {
+      "file": "public/providers/gemini.png",
+      "lines": 31,
+      "sizeBytes": 17981
+    },
+    {
+      "file": "public/providers/jina-ai.png",
+      "lines": 31,
+      "sizeBytes": 6474
+    },
+    {
+      "file": "public/providers/nanobanana.png",
+      "lines": 31,
+      "sizeBytes": 17981
+    },
+    {
+      "file": "public/providers/youcom.png",
+      "lines": 31,
+      "sizeBytes": 13578
+    },
+    {
+      "file": "src/app/api/locale/route.js",
+      "lines": 31,
+      "sizeBytes": 855
+    },
+    {
+      "file": "src/app/api/v1/responses/route.js",
+      "lines": 31,
+      "sizeBytes": 773
+    },
+    {
+      "file": "src/app/favicon.ico",
+      "lines": 31,
+      "sizeBytes": 39535
+    },
+    {
+      "file": "src/app/manifest.js",
+      "lines": 31,
+      "sizeBytes": 799
+    },
+    {
+      "file": "src/shared/utils/providerModelsFetcher.js",
+      "lines": 31,
+      "sizeBytes": 1149
+    },
+    {
+      "file": "tests/unit/codebuddy-cn-bonus-recurring.test.js",
+      "lines": 31,
+      "sizeBytes": 1392
+    },
+    {
+      "file": "tests/unit/openai-to-ollama-malformed.test.js",
+      "lines": 31,
+      "sizeBytes": 1041
+    },
+    {
+      "file": "open-sse/providers/registry/fireworks.js",
+      "lines": 30,
+      "sizeBytes": 1021
+    },
+    {
+      "file": "open-sse/providers/registry/vertex-partner.js",
+      "lines": 30,
+      "sizeBytes": 910
+    },
+    {
+      "file": "public/providers/commandcode.png",
+      "lines": 30,
+      "sizeBytes": 11613
+    },
+    {
+      "file": "public/providers/deepseek.png",
+      "lines": 30,
+      "sizeBytes": 13713
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/endpoint/endpointPing.js",
+      "lines": 30,
+      "sizeBytes": 1034
+    },
+    {
+      "file": "src/lib/tunnel/cloudflare/healthCheck.js",
+      "lines": 30,
+      "sizeBytes": 971
+    },
+    {
+      "file": "src/lib/tunnel/tailscale/healthCheck.js",
+      "lines": 30,
+      "sizeBytes": 971
+    },
+    {
+      "file": "src/shared/components/layouts/AuthLayout.js",
+      "lines": 30,
+      "sizeBytes": 1131
+    },
+    {
+      "file": "tests/unit/capabilities.test.js",
+      "lines": 30,
+      "sizeBytes": 1590
+    },
+    {
+      "file": "tests/vitest.config.js",
+      "lines": 30,
+      "sizeBytes": 1186
+    },
+    {
+      "file": "public/providers/qoder.png",
+      "lines": 29,
+      "sizeBytes": 12777
+    },
+    {
+      "file": "public/providers/roo.png",
+      "lines": 29,
+      "sizeBytes": 4901
+    },
+    {
+      "file": "src/shared/components/CapacityBadges.js",
+      "lines": 29,
+      "sizeBytes": 1067
+    },
+    {
+      "file": "tests/__baseline__/verify-no-regression.mjs",
+      "lines": 29,
+      "sizeBytes": 1240
+    },
+    {
+      "file": "tests/unit/provider-pricing-minimax-m3.test.js",
+      "lines": 29,
+      "sizeBytes": 988
+    },
+    {
+      "file": "open-sse/config/mediaConfig.js",
+      "lines": 28,
+      "sizeBytes": 1094
+    },
+    {
+      "file": "open-sse/providers/registry/nebius.js",
+      "lines": 28,
+      "sizeBytes": 815
+    },
+    {
+      "file": "open-sse/rtk/filters/readNumbered.js",
+      "lines": 28,
+      "sizeBytes": 985
+    },
+    {
+      "file": "open-sse/translator/schema/finishReasons.js",
+      "lines": 28,
+      "sizeBytes": 744
+    },
+    {
+      "file": "public/providers/google-tts.png",
+      "lines": 28,
+      "sizeBytes": 10814
+    },
+    {
+      "file": "public/providers/perplexity-web.png",
+      "lines": 28,
+      "sizeBytes": 19309
+    },
+    {
+      "file": "public/providers/perplexity.png",
+      "lines": 28,
+      "sizeBytes": 19309
+    },
+    {
+      "file": "public/providers/vertex-partner.png",
+      "lines": 28,
+      "sizeBytes": 16087
+    },
+    {
+      "file": "public/providers/vertex.png",
+      "lines": 28,
+      "sizeBytes": 16087
+    },
+    {
+      "file": "src/i18n/RuntimeI18nProvider.js",
+      "lines": 28,
+      "sizeBytes": 656
+    },
+    {
+      "file": "gitbook/app/[lang]/page.js",
+      "lines": 27,
+      "sizeBytes": 868
+    },
+    {
+      "file": "gitbook/app/page.js",
+      "lines": 27,
+      "sizeBytes": 710
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/gemini.js",
+      "lines": 27,
+      "sizeBytes": 1060
+    },
+    {
+      "file": "public/providers/fal-ai.png",
+      "lines": 27,
+      "sizeBytes": 11368
+    },
+    {
+      "file": "src/app/api/providers/suggested-models/filters.js",
+      "lines": 27,
+      "sizeBytes": 967
+    },
+    {
+      "file": "src/lib/tunnel/shared/internetCheck.js",
+      "lines": 27,
+      "sizeBytes": 712
+    },
+    {
+      "file": "gitbook/components/DocsLayout.js",
+      "lines": 26,
+      "sizeBytes": 762
+    },
+    {
+      "file": "gitbook/package.json",
+      "lines": 26,
+      "sizeBytes": 665
+    },
+    {
+      "file": "open-sse/providers/registry/cohere.js",
+      "lines": 26,
+      "sizeBytes": 671
+    },
+    {
+      "file": "open-sse/providers/registry/opencode.js",
+      "lines": 26,
+      "sizeBytes": 534
+    },
+    {
+      "file": "public/providers/cartesia.png",
+      "lines": 26,
+      "sizeBytes": 2910
+    },
+    {
+      "file": "public/providers/kimchi.png",
+      "lines": 26,
+      "sizeBytes": 5645
+    },
+    {
+      "file": "src/lib/network/initOutboundProxy.js",
+      "lines": 26,
+      "sizeBytes": 677
+    },
+    {
+      "file": "src/shared/components/Tooltip.js",
+      "lines": 26,
+      "sizeBytes": 892
+    },
+    {
+      "file": "tests/__baseline__/known-fails.txt",
+      "lines": 26,
+      "sizeBytes": 2996
+    },
+    {
+      "file": "gitbook/next.config.mjs",
+      "lines": 25,
+      "sizeBytes": 540
+    },
+    {
+      "file": "open-sse/handlers/embeddingProviders/index.js",
+      "lines": 25,
+      "sizeBytes": 803
+    },
+    {
+      "file": "open-sse/providers/registry/chutes.js",
+      "lines": 25,
+      "sizeBytes": 502
+    },
+    {
+      "file": "open-sse/providers/registry/edge-tts.js",
+      "lines": 25,
+      "sizeBytes": 437
+    },
+    {
+      "file": "open-sse/providers/registry/google-tts.js",
+      "lines": 25,
+      "sizeBytes": 447
+    },
+    {
+      "file": "open-sse/providers/registry/local-device.js",
+      "lines": 25,
+      "sizeBytes": 447
+    },
+    {
+      "file": "open-sse/providers/registry/mimo-free.js",
+      "lines": 25,
+      "sizeBytes": 546
+    },
+    {
+      "file": "open-sse/providers/registry/recraft.js",
+      "lines": 25,
+      "sizeBytes": 680
+    },
+    {
+      "file": "open-sse/translator/concerns/reasoning.js",
+      "lines": 25,
+      "sizeBytes": 1140
+    },
+    {
+      "file": "public/providers/amp.png",
+      "lines": 25,
+      "sizeBytes": 11563
+    },
+    {
+      "file": "public/providers/volcengine-ark.png",
+      "lines": 25,
+      "sizeBytes": 10746
+    },
+    {
+      "file": "src/app/api/shutdown/route.js",
+      "lines": 25,
+      "sizeBytes": 717
+    },
+    {
+      "file": "src/app/api/translator/console-logs/route.js",
+      "lines": 25,
+      "sizeBytes": 781
+    },
+    {
+      "file": "tests/translator/registerAll.js",
+      "lines": 25,
+      "sizeBytes": 1635
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/huggingface.js",
+      "lines": 24,
+      "sizeBytes": 900
+    },
+    {
+      "file": "open-sse/utils/sseConstants.js",
+      "lines": 24,
+      "sizeBytes": 729
+    },
+    {
+      "file": "public/providers/anthropic-m.png",
+      "lines": 24,
+      "sizeBytes": 8840
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/endpoint/components/SecurityWarning.js",
+      "lines": 24,
+      "sizeBytes": 883
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/endpoint/components/StatusAlert.js",
+      "lines": 24,
+      "sizeBytes": 879
+    },
+    {
+      "file": "src/app/api/providers/[id]/test/route.js",
+      "lines": 24,
+      "sizeBytes": 748
+    },
+    {
+      "file": "src/app/api/settings/proxy-test/route.js",
+      "lines": 24,
+      "sizeBytes": 809
+    },
+    {
+      "file": "src/app/api/usage/stats/route.js",
+      "lines": 24,
+      "sizeBytes": 769
+    },
+    {
+      "file": "src/lib/tunnel/cloudflare/pid.js",
+      "lines": 24,
+      "sizeBytes": 587
+    },
+    {
+      "file": "src/shared/components/NineRemoteButton.js",
+      "lines": 24,
+      "sizeBytes": 752
+    },
+    {
+      "file": "cli/hooks/postinstall.js",
+      "lines": 23,
+      "sizeBytes": 690
+    },
+    {
+      "file": "public/sw.js",
+      "lines": 23,
+      "sizeBytes": 643
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/endpoint/components/EndpointRow.js",
+      "lines": 23,
+      "sizeBytes": 951
+    },
+    {
+      "file": "src/lib/db/helpers/metaStore.js",
+      "lines": 23,
+      "sizeBytes": 909
+    },
+    {
+      "file": "src/mitm/dbReader.js",
+      "lines": 23,
+      "sizeBytes": 711
+    },
+    {
+      "file": "tests/unit/token-refresh-dispatch.test.js",
+      "lines": 23,
+      "sizeBytes": 960
+    },
+    {
+      "file": "LICENSE",
+      "lines": 22,
+      "sizeBytes": 1107
+    },
+    {
+      "file": "gitbook/app/layout.js",
+      "lines": 22,
+      "sizeBytes": 574
+    },
+    {
+      "file": "open-sse/providers/registry/azure.js",
+      "lines": 22,
+      "sizeBytes": 522
+    },
+    {
+      "file": "public/providers/nebius.png",
+      "lines": 22,
+      "sizeBytes": 7054
+    },
+    {
+      "file": "public/providers/runwayml.png",
+      "lines": 22,
+      "sizeBytes": 9371
+    },
+    {
+      "file": "src/app/api/usage/chart/route.js",
+      "lines": 22,
+      "sizeBytes": 713
+    },
+    {
+      "file": "src/app/api/v1/embeddings/route.js",
+      "lines": 22,
+      "sizeBytes": 506
+    },
+    {
+      "file": "src/app/api/v1/search/route.js",
+      "lines": 22,
+      "sizeBytes": 472
+    },
+    {
+      "file": "src/app/api/v1/web/fetch/route.js",
+      "lines": 22,
+      "sizeBytes": 483
+    },
+    {
+      "file": "src/app/api/version/update/route.js",
+      "lines": 22,
+      "sizeBytes": 748
+    },
+    {
+      "file": "src/lib/db/version.js",
+      "lines": 22,
+      "sizeBytes": 690
+    },
+    {
+      "file": "src/lib/localDb.js",
+      "lines": 22,
+      "sizeBytes": 1076
+    },
+    {
+      "file": ".vscode/settings.json",
+      "lines": 21,
+      "sizeBytes": 352
+    },
+    {
+      "file": "open-sse/executors/xiaomi-tokenplan.js",
+      "lines": 21,
+      "sizeBytes": 863
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/sdwebui.js",
+      "lines": 21,
+      "sizeBytes": 804
+    },
+    {
+      "file": "open-sse/providers/models/helpers.js",
+      "lines": 21,
+      "sizeBytes": 616
+    },
+    {
+      "file": "open-sse/providers/registry/comfyui.js",
+      "lines": 21,
+      "sizeBytes": 547
+    },
+    {
+      "file": "open-sse/providers/registry/sdwebui.js",
+      "lines": 21,
+      "sizeBytes": 616
+    },
+    {
+      "file": "public/providers/groq.png",
+      "lines": 21,
+      "sizeBytes": 8835
+    },
+    {
+      "file": "src/store/userStore.js",
+      "lines": 21,
+      "sizeBytes": 357
+    },
+    {
+      "file": "gitbook/constants/languages.js",
+      "lines": 20,
+      "sizeBytes": 710
+    },
+    {
+      "file": "open-sse/config/ollamaModels.js",
+      "lines": 20,
+      "sizeBytes": 540
+    },
+    {
+      "file": "open-sse/config/providers.js",
+      "lines": 20,
+      "sizeBytes": 960
+    },
+    {
+      "file": "open-sse/providers/registry/mmf.js",
+      "lines": 20,
+      "sizeBytes": 367
+    },
+    {
+      "file": "open-sse/providers/registry/ollama-local.js",
+      "lines": 20,
+      "sizeBytes": 398
+    },
+    {
+      "file": "open-sse/providers/registry/topaz.js",
+      "lines": 20,
+      "sizeBytes": 355
+    },
+    {
+      "file": "open-sse/shared/machineId.js",
+      "lines": 20,
+      "sizeBytes": 525
+    },
+    {
+      "file": "public/providers/firecrawl.png",
+      "lines": 20,
+      "sizeBytes": 5711
+    },
+    {
+      "file": "public/providers/grok-web.png",
+      "lines": 20,
+      "sizeBytes": 5781
+    },
+    {
+      "file": "public/providers/recraft.png",
+      "lines": 20,
+      "sizeBytes": 7108
+    },
+    {
+      "file": "public/providers/tavily.png",
+      "lines": 20,
+      "sizeBytes": 7193
+    },
+    {
+      "file": "public/providers/xai.png",
+      "lines": 20,
+      "sizeBytes": 5781
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/index.js",
+      "lines": 20,
+      "sizeBytes": 1221
+    },
+    {
+      "file": "src/app/api/mcp/[plugin]/message/route.js",
+      "lines": 20,
+      "sizeBytes": 628
+    },
+    {
+      "file": "src/app/api/v1/audio/transcriptions/route.js",
+      "lines": 20,
+      "sizeBytes": 548
+    },
+    {
+      "file": "src/store/headerSearchStore.js",
+      "lines": 20,
+      "sizeBytes": 532
+    },
+    {
+      "file": "public/providers/ollama-local.png",
+      "lines": 19,
+      "sizeBytes": 10115
+    },
+    {
+      "file": "public/providers/ollama.png",
+      "lines": 19,
+      "sizeBytes": 10115
+    },
+    {
+      "file": "src/app/api/headroom/status/route.js",
+      "lines": 19,
+      "sizeBytes": 678
+    },
+    {
+      "file": "src/app/api/tags/route.js",
+      "lines": 19,
+      "sizeBytes": 491
+    },
+    {
+      "file": "src/lib/db/paths.js",
+      "lines": 19,
+      "sizeBytes": 675
+    },
+    {
+      "file": "public/providers/tortoise.png",
+      "lines": 18,
+      "sizeBytes": 6182
+    },
+    {
+      "file": "src/lib/oauth/services/index.js",
+      "lines": 18,
+      "sizeBytes": 587
+    },
+    {
+      "file": "src/lib/tunnel/shared/dnsResolver.js",
+      "lines": 18,
+      "sizeBytes": 724
+    },
+    {
+      "file": "tests/package.json",
+      "lines": 18,
+      "sizeBytes": 474
+    },
+    {
+      "file": "tests/unit/provider-thinking-config.test.js",
+      "lines": 18,
+      "sizeBytes": 543
+    },
+    {
+      "file": "eslint.config.mjs",
+      "lines": 17,
+      "sizeBytes": 416
+    },
+    {
+      "file": "open-sse/translator/schema/roles.js",
+      "lines": 17,
+      "sizeBytes": 411
+    },
+    {
+      "file": "public/providers/cohere.png",
+      "lines": 17,
+      "sizeBytes": 7719
+    },
+    {
+      "file": "src/app/api/tunnel/enable/route.js",
+      "lines": 17,
+      "sizeBytes": 557
+    },
+    {
+      "file": "src/app/api/v1/audio/speech/route.js",
+      "lines": 17,
+      "sizeBytes": 440
+    },
+    {
+      "file": "src/app/api/v1/images/generations/route.js",
+      "lines": 17,
+      "sizeBytes": 495
+    },
+    {
+      "file": "open-sse/rtk/applyFilter.js",
+      "lines": 16,
+      "sizeBytes": 643
+    },
+    {
+      "file": "open-sse/rtk/filters/smartTruncate.js",
+      "lines": 16,
+      "sizeBytes": 686
+    },
+    {
+      "file": "public/providers/alicode-intl.png",
+      "lines": 16,
+      "sizeBytes": 6280
+    },
+    {
+      "file": "public/providers/alicode.png",
+      "lines": 16,
+      "sizeBytes": 6280
+    },
+    {
+      "file": "public/providers/cloudflare-ai.png",
+      "lines": 16,
+      "sizeBytes": 7003
+    },
+    {
+      "file": "src/app/api/health/route.js",
+      "lines": 16,
+      "sizeBytes": 425
+    },
+    {
+      "file": "src/app/api/settings/require-login/route.js",
+      "lines": 16,
+      "sizeBytes": 614
+    },
+    {
+      "file": "src/app/api/version/shutdown/route.js",
+      "lines": 16,
+      "sizeBytes": 440
+    },
+    {
+      "file": "src/mitm/handlers/cursor.js",
+      "lines": 16,
+      "sizeBytes": 381
+    },
+    {
+      "file": "src/shared/components/ThemeProvider.js",
+      "lines": 16,
+      "sizeBytes": 288
+    },
+    {
+      "file": "tests/unit/capabilities-service-kind.test.js",
+      "lines": 16,
+      "sizeBytes": 724
+    },
+    {
+      "file": "open-sse/executors/ollama-local.js",
+      "lines": 15,
+      "sizeBytes": 404
+    },
+    {
+      "file": "open-sse/utils/debugLog.js",
+      "lines": 15,
+      "sizeBytes": 496
+    },
+    {
+      "file": "open-sse/utils/sse.js",
+      "lines": 15,
+      "sizeBytes": 438
+    },
+    {
+      "file": "public/providers/black-forest-labs.png",
+      "lines": 15,
+      "sizeBytes": 8379
+    },
+    {
+      "file": "public/providers/jina-reader.png",
+      "lines": 15,
+      "sizeBytes": 2855
+    },
+    {
+      "file": "src/app/api/headroom/stop/route.js",
+      "lines": 15,
+      "sizeBytes": 468
+    },
+    {
+      "file": "src/app/api/models/test/route.js",
+      "lines": 15,
+      "sizeBytes": 579
+    },
+    {
+      "file": "src/lib/db/migrations/001-initial.js",
+      "lines": 15,
+      "sizeBytes": 470
+    },
+    {
+      "file": "gitbook/components/DocsContent.js",
+      "lines": 14,
+      "sizeBytes": 363
+    },
+    {
+      "file": "open-sse/config/models.js",
+      "lines": 14,
+      "sizeBytes": 349
+    },
+    {
+      "file": "open-sse/handlers/embeddingProviders/openaiCompatNode.js",
+      "lines": 14,
+      "sizeBytes": 512
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/components/cliEndpointMatch.js",
+      "lines": 14,
+      "sizeBytes": 709
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/endpoint/components/Tooltip.js",
+      "lines": 14,
+      "sizeBytes": 570
+    },
+    {
+      "file": "src/app/api/auth/reset-password/route.js",
+      "lines": 14,
+      "sizeBytes": 486
+    },
+    {
+      "file": "src/app/api/tunnel/status/route.js",
+      "lines": 14,
+      "sizeBytes": 531
+    },
+    {
+      "file": "src/app/api/usage/request-logs/route.js",
+      "lines": 14,
+      "sizeBytes": 450
+    },
+    {
+      "file": "jsconfig.json",
+      "lines": 13,
+      "sizeBytes": 240
+    },
+    {
+      "file": "open-sse/config/defaultThinkingSignature.js",
+      "lines": 13,
+      "sizeBytes": 4850
+    },
+    {
+      "file": "open-sse/handlers/imageProviders/comfyui.js",
+      "lines": 13,
+      "sizeBytes": 450
+    },
+    {
+      "file": "postcss.config.mjs",
+      "lines": 13,
+      "sizeBytes": 252
+    },
+    {
+      "file": "public/providers/byteplus.png",
+      "lines": 13,
+      "sizeBytes": 4749
+    },
+    {
+      "file": "public/providers/chutes.png",
+      "lines": 13,
+      "sizeBytes": 8455
+    },
+    {
+      "file": "public/providers/fireworks.png",
+      "lines": 13,
+      "sizeBytes": 2982
+    },
+    {
+      "file": "public/providers/glm-cn.png",
+      "lines": 13,
+      "sizeBytes": 4373
+    },
+    {
+      "file": "public/providers/glm.png",
+      "lines": 13,
+      "sizeBytes": 4373
+    },
+    {
+      "file": "src/app/api/auth/logout/route.js",
+      "lines": 13,
+      "sizeBytes": 491
+    },
+    {
+      "file": "src/app/api/tunnel/disable/route.js",
+      "lines": 13,
+      "sizeBytes": 372
+    },
+    {
+      "file": "src/app/api/tunnel/tailscale-disable/route.js",
+      "lines": 13,
+      "sizeBytes": 381
+    },
+    {
+      "file": "src/app/api/tunnel/tailscale-enable/route.js",
+      "lines": 13,
+      "sizeBytes": 386
+    },
+    {
+      "file": "src/app/api/usage/history/route.js",
+      "lines": 13,
+      "sizeBytes": 392
+    },
+    {
+      "file": "src/app/api/usage/logs/route.js",
+      "lines": 13,
+      "sizeBytes": 379
+    },
+    {
+      "file": "src/shared/constants/mitmToolHosts.js",
+      "lines": 13,
+      "sizeBytes": 519
+    },
+    {
+      "file": "src/shared/constants/providersDisplay.js",
+      "lines": 13,
+      "sizeBytes": 702
+    },
+    {
+      "file": "src/shared/services/bootstrap.js",
+      "lines": 13,
+      "sizeBytes": 613
+    },
+    {
+      "file": "tests/unit/hf-model-routing.test.js",
+      "lines": 13,
+      "sizeBytes": 436
+    },
+    {
+      "file": "open-sse/translator/concerns/chunk.js",
+      "lines": 12,
+      "sizeBytes": 408
+    },
+    {
+      "file": "public/favicon.svg",
+      "lines": 12,
+      "sizeBytes": 544
+    },
+    {
+      "file": "public/providers/google-pse.png",
+      "lines": 12,
+      "sizeBytes": 3812
+    },
+    {
+      "file": "public/providers/mimo-free.png",
+      "lines": 12,
+      "sizeBytes": 4709
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/[toolId]/page.js",
+      "lines": 12,
+      "sizeBytes": 464
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/quota/page.js",
+      "lines": 12,
+      "sizeBytes": 311
+    },
+    {
+      "file": "src/shared/utils/cn.js",
+      "lines": 12,
+      "sizeBytes": 235
+    },
+    {
+      "file": "tests/__baseline__/snapshot-providers.mjs",
+      "lines": 12,
+      "sizeBytes": 579
+    },
+    {
+      "file": "public/providers/anthropic.png",
+      "lines": 11,
+      "sizeBytes": 4774
+    },
+    {
+      "file": "public/providers/blackbox.png",
+      "lines": 11,
+      "sizeBytes": 5663
+    },
+    {
+      "file": "public/providers/deepgram.png",
+      "lines": 11,
+      "sizeBytes": 4774
+    },
+    {
+      "file": "public/providers/inworld.png",
+      "lines": 11,
+      "sizeBytes": 4673
+    },
+    {
+      "file": "public/providers/sdwebui.png",
+      "lines": 11,
+      "sizeBytes": 3558
+    },
+    {
+      "file": "public/providers/voyage-ai.png",
+      "lines": 11,
+      "sizeBytes": 2119
+    },
+    {
+      "file": "src/lib/db/migrations/index.js",
+      "lines": 11,
+      "sizeBytes": 423
+    },
+    {
+      "file": "cli/.npmignore",
+      "lines": 10,
+      "sizeBytes": 126
+    },
+    {
+      "file": "open-sse/rtk/caveman.js",
+      "lines": 10,
+      "sizeBytes": 403
+    },
+    {
+      "file": "open-sse/rtk/ponytail.js",
+      "lines": 10,
+      "sizeBytes": 405
+    },
+    {
+      "file": "public/providers/kilocode.png",
+      "lines": 10,
+      "sizeBytes": 5902
+    },
+    {
+      "file": "src/lib/db/helpers/jsonCol.js",
+      "lines": 10,
+      "sizeBytes": 283
+    },
+    {
+      "file": "src/lib/tunnel/cloudflare/config.js",
+      "lines": 10,
+      "sizeBytes": 280
+    },
+    {
+      "file": "src/proxy.js",
+      "lines": 10,
+      "sizeBytes": 245
+    },
+    {
+      "file": "gitbook/jsconfig.json",
+      "lines": 9,
+      "sizeBytes": 101
+    },
+    {
+      "file": "open-sse/.npmignore",
+      "lines": 9,
+      "sizeBytes": 67
+    },
+    {
+      "file": "open-sse/translator/schema/index.js",
+      "lines": 9,
+      "sizeBytes": 419
+    },
+    {
+      "file": "public/providers/mistral.png",
+      "lines": 9,
+      "sizeBytes": 3584
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/console-log/page.js",
+      "lines": 9,
+      "sizeBytes": 255
+    },
+    {
+      "file": "src/lib/tunnel/shared/watchdogConfig.js",
+      "lines": 9,
+      "sizeBytes": 469
+    },
+    {
+      "file": "open-sse/translator/concerns/message.js",
+      "lines": 8,
+      "sizeBytes": 359
+    },
+    {
+      "file": "open-sse/translator/schema/defaults.js",
+      "lines": 8,
+      "sizeBytes": 318
+    },
+    {
+      "file": "public/providers/local-device.png",
+      "lines": 8,
+      "sizeBytes": 2216
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/cli-tools/page.js",
+      "lines": 8,
+      "sizeBytes": 264
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/endpoint/page.js",
+      "lines": 8,
+      "sizeBytes": 264
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/page.js",
+      "lines": 8,
+      "sizeBytes": 274
+    },
+    {
+      "file": "src/lib/tunnel/tailscale/config.js",
+      "lines": 8,
+      "sizeBytes": 220
+    },
+    {
+      "file": "src/lib/usageDb.js",
+      "lines": 8,
+      "sizeBytes": 330
+    },
+    {
+      "file": "public/providers/linkup.png",
+      "lines": 7,
+      "sizeBytes": 3992
+    },
+    {
+      "file": "src/app/(dashboard)/layout.js",
+      "lines": 7,
+      "sizeBytes": 181
+    },
+    {
+      "file": "src/shared/utils/connectionStatus.js",
+      "lines": 7,
+      "sizeBytes": 342
+    },
+    {
+      "file": "src/shared/utils/machine.js",
+      "lines": 7,
+      "sizeBytes": 193
+    },
+    {
+      "file": "src/store/index.js",
+      "lines": 7,
+      "sizeBytes": 273
+    },
+    {
+      "file": "gitbook/postcss.config.mjs",
+      "lines": 6,
+      "sizeBytes": 73
+    },
+    {
+      "file": "open-sse/translator/concerns/json.js",
+      "lines": 6,
+      "sizeBytes": 250
+    },
+    {
+      "file": "public/providers/jcode.png",
+      "lines": 6,
+      "sizeBytes": 2196
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/mitm/page.js",
+      "lines": 6,
+      "sizeBytes": 121
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/token-saver/page.js",
+      "lines": 6,
+      "sizeBytes": 133
+    },
+    {
+      "file": "src/app/page.js",
+      "lines": 6,
+      "sizeBytes": 115
+    },
+    {
+      "file": "captain-definition",
+      "lines": 5,
+      "sizeBytes": 65
+    },
+    {
+      "file": "open-sse/config/constants.js",
+      "lines": 5,
+      "sizeBytes": 181
+    },
+    {
+      "file": "open-sse/handlers/embeddingProviders/_base.js",
+      "lines": 5,
+      "sizeBytes": 147
+    },
+    {
+      "file": "public/icons/icon-192.svg",
+      "lines": 5,
+      "sizeBytes": 292
+    },
+    {
+      "file": "public/icons/icon-512.svg",
+      "lines": 5,
+      "sizeBytes": 294
+    },
+    {
+      "file": "public/providers/assemblyai.png",
+      "lines": 5,
+      "sizeBytes": 1811
+    },
+    {
+      "file": "public/providers/kimchi.svg",
+      "lines": 5,
+      "sizeBytes": 1094
+    },
+    {
+      "file": "public/providers/openai.png",
+      "lines": 5,
+      "sizeBytes": 1811
+    },
+    {
+      "file": "src/app/(dashboard)/dashboard/basic-chat/page.js",
+      "lines": 5,
+      "sizeBytes": 139
+    },
+    {
+      "file": "src/app/api/init/route.js",
+      "lines": 5,
+      "sizeBytes": 151
+    },
+    {
+      "file": "src/lib/disabledModelsDb.js",
+      "lines": 5,
+      "sizeBytes": 181
+    },
+    {
+      "file": "src/lib/requestDetailsDb.js",
+      "lines": 5,
+      "sizeBytes": 170
+    },
+    {
+      "file": "src/shared/components/layouts/index.js",
+      "lines": 5,
+      "sizeBytes": 157
+    },
+    {
+      "file": "src/shared/constants/index.js",
+      "lines": 5,
+      "sizeBytes": 90
+    },
+    {
+      "file": "tests/.gitignore",
+      "lines": 5,
+      "sizeBytes": 53
+    },
+    {
+      "file": "cli/src/cli/tray/icon.ico",
+      "lines": 4,
+      "sizeBytes": 1700
+    },
+    {
+      "file": "cli/src/cli/tray/icon.png",
+      "lines": 4,
+      "sizeBytes": 1676
+    },
+    {
+      "file": "public/providers/edge-tts.png",
+      "lines": 4,
+      "sizeBytes": 2243
+    },
+    {
+      "file": "src/shared/hooks/index.js",
+      "lines": 4,
+      "sizeBytes": 118
+    },
+    {
+      "file": "start.sh",
+      "lines": 4,
+      "sizeBytes": 160
+    },
+    {
+      "file": ".github/dependabot.yml",
+      "lines": 3,
+      "sizeBytes": 25
+    },
+    {
+      "file": "cli/.gitignore",
+      "lines": 3,
+      "sizeBytes": 23
+    },
+    {
+      "file": "public/providers/elevenlabs.png",
+      "lines": 3,
+      "sizeBytes": 1503
+    },
+    {
+      "file": "public/providers/topaz.png",
+      "lines": 3,
+      "sizeBytes": 1904
+    },
+    {
+      "file": "src/lib/qoder/constants.js",
+      "lines": 3,
+      "sizeBytes": 165
+    },
+    {
+      "file": "src/lib/qoder/cosy.js",
+      "lines": 3,
+      "sizeBytes": 138
+    },
+    {
+      "file": "src/lib/qoder/encoding.js",
+      "lines": 3,
+      "sizeBytes": 138
+    },
+    {
+      "file": "src/app/api/v1/route.js",
+      "lines": 2,
+      "sizeBytes": 48
+    },
+    {
+      "file": "src/shared/utils/clineAuth.js",
+      "lines": 2,
+      "sizeBytes": 56
+    },
+    {
+      "file": "public/file.svg",
+      "lines": 1,
+      "sizeBytes": 391
+    },
+    {
+      "file": "public/globe.svg",
+      "lines": 1,
+      "sizeBytes": 1035
+    },
+    {
+      "file": "public/next.svg",
+      "lines": 1,
+      "sizeBytes": 1375
+    },
+    {
+      "file": "public/vercel.svg",
+      "lines": 1,
+      "sizeBytes": 128
+    },
+    {
+      "file": "public/window.svg",
+      "lines": 1,
+      "sizeBytes": 385
+    },
+    {
+      "file": "tests/__baseline__/baseline-results.json",
+      "lines": 1,
+      "sizeBytes": 239574
+    },
+    {
+      "file": "tests/__baseline__/current.json",
+      "lines": 1,
+      "sizeBytes": 290665
+    }
+  ]
+}

@@ -72,7 +72,7 @@ Result: Never stop coding, minimal cost
 **1. Cài đặt toàn cục:**
 
 ```bash
-npm install -g 9router
+npm install -g 9router@latest
 9router
 ```
 
