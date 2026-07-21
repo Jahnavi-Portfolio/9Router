@@ -19,6 +19,8 @@ WORKDIR /app
 
 LABEL org.opencontainers.image.title="9router"
 
+RUN npm install -g 9router@latest
+
 ENV NODE_ENV=production
 ENV PORT=20128
 ENV HOSTNAME=0.0.0.0
